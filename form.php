@@ -1,4 +1,6 @@
-<form action="db.php">
+
+
+<form action="./db.php" method="post">
     <div class="col-md-7 col-lg-8">
       <h4 class="mb-3">Remplisser ce formulaire ,porter plainte</h4>
       
@@ -10,13 +12,11 @@
               Valid first name is required.
             </div>
           </div>
-         
-
           <div class="col-sm-6">
-            <label for="lastName" class="form-label">Prenom</label>
-            <input type="text" class="form-control" id="lastName" placeholder="" value="" required="" name="prenon">
+            <label for="firstName" class="form-label">Nom</label>
+            <input type="text" class="form-control" id="firstName" placeholder="prenom" value="" required="" name="prenom">
             <div class="invalid-feedback">
-              Valid last name is required.
+              Valid first name is required.
             </div>
           </div>
 
@@ -65,11 +65,11 @@
           <div class="col-md-4">
             <label for="state" class="form-label" >Region</label>
             <select class="form-select" id="state" required="" name="region">
-              <option value="">Savanne</option>
+              <option>Savane</option>
               <option>Kara</option>
-              <option value="">Centrale</option>
+              <option>Centrale</option>
               <option>Plateaux</option>
-              <option value="">Maritime</option>
+              <option>Maritime</option>
               
             </select>
             <div class="invalid-feedback">

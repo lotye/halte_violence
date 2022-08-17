@@ -19,18 +19,6 @@ font-size:  50px ;
 text-align: center;
 }
 
-button{
-    font-size: 32px;
-    font-weight: 500;
-    padding: 20px;
-    margin: 20px;
-    width: 350px;
-    background: transparent;
-    color: #ed0000;
-    cursor: pointer;
-    border: 2px ;
-    border-radius: 50px;
-    }
     .bordur{
 
       border: 2px solid white;
@@ -60,7 +48,9 @@ button.refuser{
 .center{
     margin-left: 80px;
 }
-
+button{
+  width: 83%;
+}
 
 
 
@@ -801,7 +791,7 @@ padding: 20px;
     font-size: 18px;
   }
   .taille_reduit{
-    align-items: stretch;
+    align-items: stretc;
   }
   .deplacement{
     display: flex;
@@ -876,221 +866,7 @@ iframe{
 
 
 
-/* media queries  */
-@media (max-width:991px){
-  
-.violences{
-  width: 100%;
-  height: 400px;
-  background-color: #fab032;
-  margin-top: 20px;
-  
-}
-.size{
-font-size:  50px ;
-color:  #ebeef1;
-text-align: center;
-}
 
-button{
-  font-size: 32px;
-  font-weight: 500;
-  padding: 20px;
-  margin: 20px;
-  width: 350px;
-  background: transparent;
-  color: #ed0000;
-  cursor: pointer;
-  border: 2px ;
-  border-radius: 50px;
-  box-shadow: 10px 10px 10px -1px rgba(10, 99, 169, 0.16),
-               -10px -10px 10px -1px rgba(255, 255, 255, 0.70);
-  }
-  .button_v{
-      
-      color: #00a037;
-  }
-  
-button.refuser{
-  color: #ed0000;
-  box-shadow: inset 10px 10px 10px -1px rgba(10, 99, 169, 0.16),
-  inset -10px -10px 10px -1px rgba(255, 255, 255, 0.70) ;
-}
-.size_p{
-  font-size:  30px ;
-  color:  #ebeef1;
-  text-align: center;
-}
-.center{
-  margin-left: 80px;
-}
-
-
-.forme_de_violence{
-    width: 100%;
-    height: 400px ;
-    justify-content: space-between;
-    margin-top: 20px;
-    margin-bottom: 0px;
-    background-image: url(images/projects_bg.jpg);
-}
-.partie_1{
-    width: 50%;
-}
-.verte{
-    color: #00a037;
-    font-size: 30px;
-    align-items: center;
-    margin-left: 180px;
-    margin-top: 80px;
-}
-.partie_2{
-   width: 50%;
-}
-.verte_1{
-    font-size: 20px;
-    align-items: center;
-    margin-right: 150px;
-    margin-top: 50px;
-}
-.rouge{
-    color: red;
-    cursor: pointer;
-    text-decoration: underline;
-}
-.types_de_violence1{
-    width: 100%;
-    height: 400px;
-    margin-top: 20px;
-}
-.couple{
-width: 30%;
-margin-right: 30px;
-margin-left: 20px;
-box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.369);
-}
-.couple_1{
-    text-align: center;
-    margin-top: 80px;
-}
-
-#input_box{
-    width: 150px;
-    height: 50px;
-}
-
-
-
-
-.harcelement{
-    width: 30%;
-    height: 400px;
-    margin-left: 30px;
-    
-box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.369);
-}
-.mutilations{
-    width: 30%;
-    height: 400px;
-    margin-left: 30px;
-    
-box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.369);
-
-}
-
-.types_de_violence2{
-    width: 100%;
-    height: 400px;
-    margin-top: 20px;
-    
-}
-.rouge_t{
-    color: #ed0000;
-    font-size: 25px;
-
-}
-
-
-
-
-.paroles_expertes{
-    width: 100%;
-    height: auto;
-}
-.paroles{
-    width: 50%;
-    text-align: center;
-    background-color: whitesmoke;
-    margin-left: 30px;
-    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.369);
-    margin-right: 30px;
-}
-.auteur{
-    width: 50%;
-    align-items: center;
-    margin-right: 25px;
-    background-color: whitesmoke;
-    margin-left: 30px;
-    box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.369);
-    
-}
-.title{
-    text-align: center;
-    font-size: 30px;
-    text-decoration: none;
-    margin-bottom: 20px;
-    margin: 25px;
-}
-.agression{text-align: center;
-}
-#eye{
-    align-items: center;
-    margin-left: 25%;
-    margin-top: 5px;
-    width: 25%;
-}
-#peo{
-    
-    margin-top: 5px;
-}
-.vert{
-    text-align: center;
-    font-size: 30px;
-    color: #00a037;
-}
-.agression{
-    font-size: 20px;
-}
-
-
-
-
-
-
-
-
-
-
-.besoin_daide{
-    width:100% ;
-    height: 300px; 
-    margin-top: 50px;
-    background-color: #00a037;
-    background-image: url(images/picto_silouhettes_m.png);
-
-}
-
-
-
-
-
-  
-  h3 {
-    transform: scale(0.94);
-    animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
-    padding-right: 30px;
-
-  }
   @keyframes scale {
     100% {
       transform: scale(1);
@@ -1233,10 +1009,204 @@ font-size: 20px;
 
 
 
+
+@media  screen and (max-width: 767px) {
+
+  P{
+    font-size:16px ;
+  }
+.paroles_expertes{
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+  padding-top: 30px;
+  gap: 30px;
+}
+   
+.paroles{
+  width: 100%;
+  text-align: center;
+  background-color: whitesmoke;
+  margin-left: 30px;
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.369);
+  margin-right: 30px;
+}
+.auteur{
+  width: 100%;
+  align-items: center;
+  margin-right: 25px;
+  background-color: whitesmoke;
+  margin-left: 30px;
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.369);
+  
+}  
+  
+
+  
+  
+.decouverte{
+  width: 100%;
+  margin-top: 15px;
+  padding-top: 30px;
+  flex-direction: column;
+  gap: 30px;
 }
 
 
-
-
-
+.association_1{
+  width: 100%;
+  margin-left: 30px;
+ box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.369);
+ text-align: center;
+ padding: 20px;
  
+ }
+ 
+ .association_2{
+     width: 100%;
+     margin-left: 30px;
+     margin-right: 30px;
+     box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.369);
+     text-align: center;
+     padding: 20px;
+    }
+  
+  
+  
+.types_de_violence1{
+  width: 100%;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 50px;
+  gap: 30px;
+}
+
+.types_de_violence2{
+  width: 100%;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 50px;
+  gap: 30px;
+}
+
+
+.couple{
+  width: 100%;
+  padding: 20px;
+  margin-right: 30px;
+  margin-left: 20px;
+  box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.369);
+  }
+
+  
+.harcelement{
+  width: 100%;
+  padding: 20px;
+  margin-left: 30px;
+  
+box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.369);
+}
+.mutilations{
+  width: 100%;
+  margin-left: 30px;
+  padding: 20px;
+  
+box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.369);
+
+}
+#deco{
+  width: 100%;
+  align-items: center;
+}
+
+
+.intro{
+  width:100% ;
+  margin-top: 70px;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+ }
+
+ .professionnel{
+  background-color: red;
+  width: 100%;
+  height: 750px;
+  background-image: url(images/picto_formation_1.png);
+  display: flex;
+  
+  }
+  
+.partie_1{
+  width: 100%;
+}
+  
+.partie_1 p{
+  
+margin: 0;
+padding: 10px;
+width: 80%;
+}
+
+.partie_2{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.partie_2 p{
+margin: 0;
+padding: 10px;
+width: 80%;
+}
+
+
+.votre_role{
+  font-size: 20px;
+  background-color: whitesmoke;
+  margin-top: 40px;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+}
+
+#deco{
+  margin-left: 0;
+  width: 100%;
+}
+.place{
+  padding: 20px;
+}
+#outil{
+  padding: 20px;
+}
+
+.numero{
+  width: 100%;
+  text-align: center;
+  margin-left: 0px;
+  font-size: 20px;
+  border: 2px solid red;
+  padding: 0px;
+  
+   }
+   
+ .numero_urgences{
+  margin-top: 30px;
+  width: 100%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#accordionPanelsStayOpenExample{
+  width: 100%!important;
+}
+  
+button{
+  margin-bottom: 20px;
+}
+
+   }

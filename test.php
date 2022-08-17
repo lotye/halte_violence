@@ -34,6 +34,15 @@
         </li>
       </ul>
 
+      
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
       <nav class="navbar bg-light">
         <div class="container bg-#ffffff ">
           <a class="navbar-brand  " href="#">
@@ -140,7 +149,7 @@
 
    
   <?php
-  include "form.php";
+  include("form.php");
   ?>  
       <form action="">
         <h4 class="mb-3">Je veux soutenir la plateforme/ Faire un don</h4>
@@ -307,6 +316,8 @@
 
 
 
+
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 
 
