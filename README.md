@@ -15,6 +15,9 @@ Outils:
     Figma
     Photoshop
     FileZilla
+    
+    Methodologie: 
+    Agile
 
 Structure des fichiers :index.html/ aide.html/ association.html/ consequence.html /catalogue.html/ db.php/ form.php /mariage.html/ mestraces.html/ prestation.html/profetionnel.html/ recherche.js / styles.css/ test.php.
 lien git hub https://github.com/lotye/halte_violence/edit/master/README.md
