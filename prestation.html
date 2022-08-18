@@ -9,47 +9,74 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
-    <title>Document</title>
+    <title>prestation</title>
 </head>
 
 <body>
-
-  <div class="deplacement"> 
-    
-    <div class="top-right">
-          <img class="logo" src="images/fre.jpg" alt=" logo">
+  <!-- debut de la section profetionnel -->
+  <div class="deplacement  "> 
+    <nav class="navbar navbar-expand-lg ">
+      <div class="container-fluid">
+        <div class="top-right">
+          <img class="logo" src="images/logo1.png" alt=" logo" >
     </div>
-        <div class="top-center ">
-            <header class="d-flex justify-content-center py-3">
-                <div class="section_1">   
-                    <ul class="menu nav-pills me-0">
-                      <li class="nav-item"><a href="#" class="nav-link" aria-current="page"> <span class="text-danger gros">117</span><br> Appeler <br> la police au secour</a></li>
-                      <li class="nav-item"><a href="#" class="nav-link"> <span class="text-danger gros">4242</span><br> appeler femme <br> violence info</a></li>
-                      <li class="nav-item"><a href="#" class="nav-link"> <i class="fa-solid fa-message text-danger petit"></i> <br> <br> signaler une <br> violence en ligne</a></li>
-                      <li class="nav-item"><a href="#" class="nav-link"> <i class="fa-solid fa-users text-danger"></i>  <br> <br> Trouver une Association</a></li>
-                      <li class="nav-item"><a href="#" class="nav-link">  <span class="text-danger"><i class="fa-solid fa-eye-slash"></i>  <br></span> <br> Savoir effacer mes traces</a></li>
-                    </ul>
-                </div>
-            </header>
-        </div>
+    <div>
+      <img src="" alt="">
+    </div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+    </nav>
+    <!-- traducteur google -->
+      <div class="version">
+        <p class="coul">
+          Togo - Ministère de l'Action Sociale de la Promotion de la Femme et de l'Alphabétisatio, MASPFA (Ministry of Social Action, Women and Literacy)
+          </p> 
+        <div id="google_translate_element">
+
+        <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'fr'}, 'google_translate_element');
+        }
+        </script>
+      </div>
+    </div>
+<!-- nav_bar items -->
+<div class=" navbar-collapse" id="navbarNavDropdown  ">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="#"></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#"> </a>
+    </li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> 
+        Liens utiles
+      </a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="mestraces.html">  <span class="text-danger"><i class="fa-solid fa-eye-slash"></i></span>  Savoir effacer mes traces</a></li>
+        <li><a class="dropdown-item" href="#">   <span class="text-danger gros">4242</span> appeler  femme  violence</a></li>
+        <li><a class="dropdown-item" href="test.php"><i class="fa-solid fa-message text-danger petit"></i>  signaler une violence  en ligne</a></li>
         
-<div id="google_translate_element"></div>
-
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script>
-
+        <li><a class="dropdown-item" href="#">    <span class="text-danger gros">117</span>    Appeler  la police  au ecour</a></li>
+          <li><a class="dropdown-item" href="association.html" role="button" data-bs-toggle="dropdown" aria-expanded="false"> <i class="fa-solid fa-users text-danger"></i>  
+          Trouver une association
+      </a>
+      </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+</div>
+<!-- menus burger -->
     <div class="top-right">
       <input id="toggle" type="checkbox"></input>
-
       <label for="toggle" class="hamburger">
         <div class="top-bun"></div>
         <div class="meat"></div>
         <div class="bottom-bun"></div>
       </label>
-      
       <div class="nav">
         <div class="nav-wrapper flex">
           <nav class="duplicate">
@@ -86,29 +113,16 @@ function googleTranslateElementInit() {
         </nav>
         </div>
     </div>
-
-     
     </div> 
-
-     
 </div>
-
-
-    
-       
-
+<!-- section des types de prestation -->
     <div class="prestations">
         <div class="references">
 
           <h6 > <a href="index.html" > acceuil</a></h6>
             <H2>TROUVER UNE ASSOCIATIONS PRES DE CHEZ VOUS</H2> <br>
-
-            
-<button type="button" class="btn btn-outline-white text-white bordur">LES ASSOCIATIONS NATIONNALES</button>
-<button type="button" class="btn btn-outline-white  text-white bordur">LES ASSOCIATIONS PRES DE CHEZ VOUS</button>
-
-
-
+<button type="button" class="btn btn-outline-white text-white bordur m-2">LES ASSOCIATIONS NATIONNALES</button>
+<button type="button" class="btn btn-outline-white  text-white bordur m-2">LES ASSOCIATIONS PRES DE CHEZ VOUS</button>
             <div class="input-group1">
                 <div class="input-group">
                     <select class="form-select " id="inputGroupSelect01">
@@ -119,7 +133,6 @@ function googleTranslateElementInit() {
                         <option>mineure</option> <br>
                         <option>femmes agees</option> <br>
                     </select>
-
                 </div>
                 <div class="input-group">
                     <select class="form-select" id="inputGroupSelect01">
@@ -159,20 +172,13 @@ function googleTranslateElementInit() {
 
                     </select>
                 </div>
-
-
-
-
+                <!-- trouver une association -->
             </div>
             <div class="recherche">
-
              <input id="searchbar" onkeyup="trouver_association()" type="text" name="search"
               placeholder="trouver une association..">
-
             </div>
         </div>
-
-
         <div class="accordion w-50 mx-auto p-5" id="accordionPanelsStayOpenExample">
             <div class="accordion-item ">
               <h2 class="accordion-header" id="panelsStayOpen-headingOne">
@@ -256,24 +262,15 @@ function googleTranslateElementInit() {
                   <strong>Activités :</strong> <br>
 
                     accompagnement | information | accueil | écoute <br>
-                     | écoute téléphonique | information juridique <br>
-                        <strong> Détails :</strong> <br>
-                          
-                             <strong> Permanences :</strong>
-
-                       
-
-                               <strong> https://www.nice.tg/tg/</strong>
-
-
+                    | écoute téléphonique | information juridique <br>
+                    <strong> Détails :</strong> <br>   
+                  <strong> Permanences :</strong>
+                  <strong> https://www.nice.tg/tg/</strong>
                 </div>
               </div>
             </div>
           </div>
-
-
           <div class=" numero_urgences">
-               
             <div class="numero">
                 <p class="titre_3">LES NUMEROS D'URGENCES</p>
                 <p>  <span id="nbr">17</span>  <br>
@@ -286,8 +283,6 @@ function googleTranslateElementInit() {
                         malentendantes, aphasiques, dysphasiques
                          </p>
                      <p>
-                        
-    
                            <SPan id="nbr">112 </SPan> <br> - Les services d'urgence togolais <br>
                        <span id="nbr">15</span> <br>  - Les urgences médicales (SAMU) <br>
                         <span id="nbr">18</span> <br> - Les pompiers <br>
@@ -296,16 +291,10 @@ function googleTranslateElementInit() {
                         Ces numéros d’urgence sont gratuits et peuvent être composés
                          à partir d’un téléphone fixe ou portable, même bloqué ou sans crédit.
                     </p>
-                    
-          
-
                     <button type="button" class="btn btn-outline-danger">Light</button>
             </div>
-
-
-    </div>
-
-    
+ </div>
+    <!-- footer -->
 <div class="footer-top ">
   <div class="container">
       <div class="row">
@@ -321,7 +310,6 @@ function googleTranslateElementInit() {
                          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                       </div>
                   </div>
-              
               </div>
               <div class="col-lg-2 col-md-6 footer-links ">
               </div>
@@ -348,7 +336,7 @@ function googleTranslateElementInit() {
                                        <a href="https://www.unicef.fr/sites/default/files/fiche_thematique-myunicef-mettre_fin_aux_violences_faites_aux_enfants.pdf">Lutte contre les violences faites au enfants</a>
                               </li>
                </ul>
-              
+              <!-- news letter -->
            </div>
                 <div class="col-lg-4 col-md-6 footer-newsletter">
                   <h4>Our Newsletter</h4>

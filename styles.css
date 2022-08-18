@@ -2,23 +2,14 @@ body{
     width: 100%;
 }
 
-
-
 header{
   display: flex;
   
 }
-
-
-
-
-
-
 .size{
 font-size:  50px ;
 text-align: center;
 }
-
     .bordur{
 
       border: 2px solid white;
@@ -53,7 +44,7 @@ button{
 }
 
 
-
+/* section des formesde violence */
 
 .forme_de_violence{
     width: 100%;
@@ -137,7 +128,7 @@ box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.369);
 }
 
 
-
+/* traitement des section profetionnel,prestations */
 
 .paroles_expertes{
     width: 100%;
@@ -189,13 +180,7 @@ box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.369);
     font-size: 20px;
 }
 
-
-
-
-
-
-
-
+/* traitement de la section besoins d'aide */
 
 .besoin_daide{
     width:100% ;
@@ -205,16 +190,13 @@ box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.369);
 
 }
 
-
-
-
-
   
   h3 {
     transform: scale(0.94);
     animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
     padding-right: 30px;
 
+    /* traitement de la section consequence */
   }
   @keyframes scale {
     100% {
@@ -289,17 +271,6 @@ box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.369);
     }
   }
   
-  
-
-
-
-
-
-
-
-
-
-
 .besoin{
     
     margin-left: 50px;
@@ -367,7 +338,7 @@ font-size: 20px;
 
 
 
-
+/* traitement des sections association */
 
 .decouverte{
     width: 100%;
@@ -399,11 +370,6 @@ padding: 20px;
    #peop{
     margin-top: 80px;
    }
-
-
-
-
-
 
    .besoin_daide{
     padding: 30px;
@@ -445,7 +411,7 @@ padding: 20px;
 
 
 
-
+/* traitement de la section mes traces */
 
 .effacer{
     width: 100%;
@@ -484,11 +450,7 @@ h1{
     color: green ;
 }
 
-
-
-
-
-
+/* traitement de lasection profetionnel */
 .professionnel{
     background-color: red;
     width: 100%;
@@ -519,9 +481,6 @@ h1{
     text-align: center;
     color: #ed0000;
 }
-
-
-
 
 .references{
   background-color: #ed0000;
@@ -556,8 +515,6 @@ h1{
      transition: width 0.15s ease-in-out;
   }
 
-  /* When the input field gets focus,
-       change its width to 100% */
   input[type=text]:focus {
     width: 70%;
   }
@@ -624,11 +581,18 @@ padding: 20px;
     margin-left: 150px;
 }
 
-
-
-
-
-
+.version{
+  display: flex;
+  flex-direction: row;
+  margin-left: 80px;
+  margin-top: 30px;
+}
+.coul{
+  font-size: 14px;
+  color: #439075;
+  width: 238px;
+  font-weight: 800;
+}
 
 
 #toggle {
@@ -654,7 +618,7 @@ padding: 20px;
     width: 3em;
     height: 7px;
     border-radius: 3px;
-    background-color: #f8982b;
+    background-color: rgb(25, 161, 25);
     margin-top: 8px;
     transition: all 0.3s ease-in-out;
   }
@@ -811,9 +775,9 @@ padding: 20px;
     flex-direction: row;
   }
 .logo{
-  width: 300px;
+  width: 100px;
   margin-left: 60px;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .top-center .menu li{
@@ -842,29 +806,6 @@ hr{
 }
 iframe{
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
   @keyframes scale {
@@ -940,16 +881,14 @@ iframe{
     }
   }
   
-  
 
-
-
-
-
-
-
-
-
+/* traitement nav_bar */
+.navbar-collapse{
+  margin-left: 150px;
+}
+#google_translate_element{
+  margin-left: 130px;
+}
 
 .besoin{
     
@@ -960,7 +899,9 @@ iframe{
 
 }
 
-
+li{
+  list-style: none;
+}
 
 
 .urgences{
@@ -1007,10 +948,8 @@ font-size: 20px;
 }
 
 
-
-
-
-@media  screen and (max-width: 767px) {
+/* version mobile responsivité */
+@media  screen and (max-width: 500px) {
 
   P{
     font-size:16px ;
@@ -1040,9 +979,6 @@ font-size: 20px;
   box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.369);
   
 }  
-  
-
-  
   
 .decouverte{
   width: 100%;
@@ -1209,4 +1145,84 @@ button{
   margin-bottom: 20px;
 }
 
+
+.association_nationale{
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+  }
+
+  
+.taillle{
+font-size: 10px;
+
+}
+
+.gros{
+  font-size: 15px;
+}
+
+
+.logo{
+  width: 50px;
+  margin-left: 5px;
+  margin-top: 30px;
+}
+
+
+.coul{
+  font-size: 14px;
+  color: #439075;
+  width: 238px;
+  display: none;
+  font-weight: 800;
+}
+
+
+#google_translate_element{
+  margin-left: 10px;
+}
+
+
+.goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon * {
+  font-family: arial;
+  font-size: 6pt !important;
+}
+.goog-logo-link{
+font-size: 6pt!important;
+}
+.goog-te-gadget {
+  font-size: 6pt !important;
+}
+
+
+.navbar-collapse{
+  margin-left: 10px;
+}
+
+
+.version{
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+
+.hamburger div {
+  position: relative;
+  width: 2em;
+  height: 2px;
+  border-radius: 3px;
+  background-color: green;
+  margin-top: 8px;
+  transition: all 0.3s ease-in-out;
+  position: static;
+}
+
+.couple_1{
+  text-align: center;
+  margin-top: 80px;
+  width: 100%;
+}
    }

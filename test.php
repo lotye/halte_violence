@@ -6,42 +6,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
- 
+  
     <title>test</title>
 </head>
 <body>
     
-    <ul class="nav nav-tabs mt-5 ml-5  ">
-        <li class="nav-item me-">
-          <a class="nav-link active" aria-current="page" href="#">Active</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Dropdown</a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
-            <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Separated link</a></li>
-          </ul>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled">Disabled</a>
-        </li>
+<!-- nav_bar boostrap -->
+<div class=" navbar-collapse" id="navbarNavDropdown  ">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="#"></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#"> </a>
+    </li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> 
+        Liens utiles
+      </a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="mestraces.html">  <span class="text-danger"><i class="fa-solid fa-eye-slash"></i></span>  Savoir effacer mes traces</a></li>
+        <li><a class="dropdown-item" href="#">   <span class="text-danger gros">4242</span> appeler  femme  violence</a></li>
+        <li><a class="dropdown-item" href="test.php"><i class="fa-solid fa-message text-danger petit"></i>  signaler une violence  en ligne</a></li>
+        
+        <li><a class="dropdown-item" href="#">    <span class="text-danger gros">117</span>    Appeler  la police  au ecour</a></li>
+          <li><a class="dropdown-item" href="association.html" role="button" data-bs-toggle="dropdown" aria-expanded="false"> <i class="fa-solid fa-users text-danger"></i>  
+          Trouver une association
+      </a>
+      </li>
       </ul>
-
-      
-<div id="google_translate_element"></div>
-
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script>
+    </li>
+  </ul>
+</div>
+</div>
 
       <nav class="navbar bg-light">
         <div class="container bg-#ffffff ">
@@ -145,9 +144,7 @@ function googleTranslateElementInit() {
     <div class="col-md-5 col-lg-4 order-md-last  ">
      
     </div>
-
-
-   
+<!-- liaisons de la page php -->
   <?php
   include("form.php");
   ?>  
@@ -168,13 +165,10 @@ function googleTranslateElementInit() {
             <label class="form-check-label" for="paypal">Flooz</label>
           </div>
         </div>
-
         <div class="row gy-3">
           <div class="col-md-6">
             <label for="cc-name" class="form-label">NOTRE Compte bancaire</label>
             <input type="text" class="form-control" id="cc-name" placeholder="" required="">
-            
-
           <div class="col-md-6">
             <label for="cc-number" class="form-label">Nom de votre banque</label>
             <input type="text" class="form-control" id="cc-number" placeholder="" required="">
@@ -182,13 +176,7 @@ function googleTranslateElementInit() {
               Credit card number is required
             </div>
           </div>
-
-         
-
-          
         </div>
-
-
         <hr class="my-4">
 
         <div class="form-floating">
@@ -197,13 +185,11 @@ function googleTranslateElementInit() {
           
           <label for="floatingTextarea"></label>
         </div>
-
-        
       </form>
     </div>
   </div>
 </div>
-
+<!-- footer -->
         <footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top me-5">
           <div class="col mb-3">
             <a href="/" class="d-flex align-items-center mb-3 link-dark text-decoration-none">
@@ -270,7 +256,6 @@ function googleTranslateElementInit() {
                          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                       </div>
                   </div>
-              
               </div>
               <div class="col-lg-2 col-md-6 footer-links">
               </div>
@@ -295,9 +280,9 @@ function googleTranslateElementInit() {
                            </li>
                               <li><i class="bx bx-chevron-right"></i>
                                        <a href="https://www.unicef.fr/sites/default/files/fiche_thematique-myunicef-mettre_fin_aux_violences_faites_aux_enfants.pdf">Lutte contre les violences faites au enfants</a>
-                              </li>
+                          </li>
                </ul>
-              
+              <!-- news later -->
            </div>
                 <div class="col-lg-4 col-md-6 footer-newsletter">
                   <h4>Our Newsletter</h4>

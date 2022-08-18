@@ -9,36 +9,67 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
 
-    <title>Document</title>
+    <title>association</title>
 </head>
 <body>
-  
-<div class="deplacement"> 
-    
-  <div class="top-right">
-        <img class="logo" src="images/fre.jpg" alt=" logo">
+   <!-- debut de la page d'association -->
+<div class="deplacement  ">
+  <nav class="navbar navbar-expand-lg ">
+    <div class="container-fluid">
+      <div class="top-right">
+        <!-- logo  -->
+        <img class="logo" src="images/logo1.png" alt=" logo" >
   </div>
-      <div class="top-center ">
-          <header class="d-flex justify-content-center py-3">
-              <div class="section_1">   
-                  <ul class="menu nav-pills me-0">
-                    <li class="nav-item"><a href="#" class="nav-link" aria-current="page"> <span class="text-danger gros">117</span><br> Appeler <br> la police au secour</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link"> <span class="text-danger gros">4242</span><br> appeler femme <br> violence info</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link"> <i class="fa-solid fa-message text-danger petit"></i> <br> <br> signaler une <br> violence en ligne</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link"> <i class="fa-solid fa-users text-danger"></i>  <br> <br> Trouver une Association</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link">  <span class="text-danger"><i class="fa-solid fa-eye-slash"></i>  <br></span> <br> Savoir effacer mes traces</a></li>
-                  </ul>
-              </div>
-          </header>
-      </div>
-
-      <div id="google_translate_element"></div>
+  <div>
+    <img src="" alt="">
+  </div>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+  </nav>
+  <!-- partie google translate -->
+    <div class="version">
+      <p class="coul">
+        Togo - Ministère de l'Action Sociale de la Promotion de la Femme et de l'Alphabétisatio, MASPFA (Ministry of Social Action, Women and Literacy)
+        </p> 
+      <div id="google_translate_element">
 
       <script type="text/javascript">
       function googleTranslateElementInit() {
-        new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+        new google.translate.TranslateElement({pageLanguage: 'fr'}, 'google_translate_element');
       }
+    
       </script>
+      
+    </div>
+    
+    
+  </div>
+
+ <!-- itemes de la nav bar -->
+<div class=" navbar-collapse" id="navbarNavDropdown  ">
+   <ul class="navbar-nav">
+  <li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> 
+      Liens utiles
+    </a>
+    <ul class="dropdown-menu">
+      <li><a class="dropdown-item" href="mestraces.html">  <span class="text-danger"><i class="fa-solid fa-eye-slash"></i></span>  Savoir effacer mes traces</a></li>
+      <li><a class="dropdown-item" href="#">   <span class="text-danger gros">4242</span> appeler  femme  violence</a></li>
+      <li><a class="dropdown-item" href="test.php"><i class="fa-solid fa-message text-danger petit"></i>  signaler une violence  en ligne</a></li>
+      
+      <li><a class="dropdown-item" href="#">    <span class="text-danger gros">117</span>    Appeler  la police  au ecour</a></li>
+        <li><a class="dropdown-item" href="association.html" role="button" data-bs-toggle="dropdown" aria-expanded="false"> <i class="fa-solid fa-users text-danger"></i>  
+        Trouver une association
+    </a>
+    </li>
+    </ul>
+  </li>
+  </ul>
+</div>
+</div>
+
+<!-- menue burger -->
   <div class="top-right">
     <input id="toggle" type="checkbox"></input>
 
@@ -90,11 +121,7 @@
 
    
 </div>
-
-
-  
-     
-
+<!-- sequence d'aceuil de la page -->
       <main class="container">
         <div class="p-4 p-md-5 mb-4 text-white rounded bg-dark">
           <div class="col-md-6 px-0">
@@ -103,14 +130,15 @@
               <div class="display-2">
                 
             
-<button type="button" class="btn btn-outline-white text-white bordur">LES ASSOCIATIONS NATIONNALES</button>
-<button type="button" class="btn btn-outline-white  text-white bordur">LES ASSOCIATIONS PRES DE CHEZ VOUS</button>
-
+            <button type="button" class="btn btn-outline-white text-white bordur m-2">LES ASSOCIATIONS NATIONNALES</button>
+           <button type="button" class="btn btn-outline-white  text-white bordur m-2">LES ASSOCIATIONS PRES DE CHEZ VOUS</button>
 
           </div>
         </div>
       
       </main>
+
+      <!-- introduction -->
             
         <div class="intro">
             <div class="partie_1">
@@ -130,34 +158,38 @@
 
         </div>
 
+        <!-- les associations nationnales -->
+
         <div class="association_nationale">
             <div class="partie_1">
                 <p class="verte_2">LES ASSOCIATIONS <br> NATIONNALES <br></p>
             </div>
             <div class="partie_2">
                   
-                    <h4>LES ASSOCIATIONS DE LUTTE CONTRE LES VIOLENCES SEXISTES ET SEXUELLES</h4>
-                    <p class="verte_1">
-                      Plusieurs associations nationales œuvrent spécifiquement
-                     à la prévention et la lutte contre les violences sexistes et sexuelles,
-                     en faveur de l'égalité entre
-                     les femmes et les hommes, dont notamment :
-                 </p>
+         <h4>LES ASSOCIATIONS DE LUTTE CONTRE LES VIOLENCES       SEXISTES ET SEXUELLES
+
+         </h4>
+         <p class="verte_1">
+            Plusieurs associations nationales œuvrent spécifiquement
+           à la prévention et la lutte contre les violences sexistes et sexuelles,
+            en faveur de l'égalité entre
+            les femmes et les hommes, dont notamment :
+          </p>
                   
-                     <h4>La Fédération nationale solidarité femmes (FNSF)</h4>
-                    <p>
-                     Fédérant 67 associations sur le territoire, la FNSF vise
-                     à agir avec les femmes pour leurs droits à la liberté, 
-                     l’égalité et l’intégrité. Elle mène une action pour les accompagner 
-                     vers la sortie des violences et l’autonomie et à faire reconnaître 
-                     les violences faites aux femmes comme une des manifestations des 
-                     inégalités persistantes entre les femmes et les hommes.  Elle gère 
-                     depuis sa création le 3919 – Violences Femmes Info, plateforme d'écoute,
-                      d'information et d'orientation des femmes victimes de violences sexistes
-                       et sexuelles, 
-                     de leur entourage des professionnels. Gratuit et anonyme.
-                     <span class="slgn">www.solidaritefemmes.org</span>
-                 </p>
+           <h4>La Fédération nationale solidarité femmes (FNSF)</h4>
+            <p>
+              Fédérant 67 associations sur le territoire, la FNSF vise
+              à agir avec les femmes pour leurs droits à la liberté, 
+              l’égalité et l’intégrité. Elle mène une action pour les accompagner 
+              vers la sortie des violences et l’autonomie et à faire reconnaître 
+              les violences faites aux femmes comme une des manifestations des 
+              inégalités persistantes entre les femmes et les hommes.  Elle gère 
+              depuis sa création le 3919 – Violences Femmes Info, plateforme d'écoute,
+              d'information et d'orientation des femmes victimes de violences sexistes
+             et sexuelles, 
+              de leur entourage des professionnels. Gratuit et anonyme.
+              <span class="slgn">www.solidaritefemmes.org</span>
+            </p>
                   
                                <h4> Le Collectif féministe contre le viol (CFCV)</h4>
                  <p>
@@ -183,43 +215,39 @@
                         <span class="slgn"> www.infofemmes.com</span>
                     </p>
                         
-                            <h4>Femmes solidaires</h4>
-                        <p>  
-                            A la tête d’un réseau de plus de 190 associations locales
-                             réparties en métropole et dans les DOM-TOM, Femmes
-                              solidaires est un mouvement féministe d’éducation 
-                              populaire qui défend les valeurs fondamentales 
-                              de laïcité, de mixité, d’égalité pour les droits des
-                               femmes. Elle informe, sensibilise sur les droits des
-                                femmes afin de contribuer à l’évolution des mentalités
-                                 vers une société libérée des rapports de domination
-                            et travaille sur toutes les formes de violences.
-                            <span class="slgn">www.femmes-solidaires.org</span>
-                                
-                        </p>
+                      <h4>Femmes solidaires</h4>
+          <p>  
+            A la tête d’un réseau de plus de 190 associations locales
+           réparties en métropole et dans les DOM-TOM, Femmes
+           solidaires est un mouvement féministe d’éducation 
+           populaire qui défend les valeurs fondamentales 
+           de laïcité, de mixité, d’égalité pour les droits des
+           femmes. Elle informe, sensibilise sur les droits des
+           femmes afin de contribuer à l’évolution des mentalités
+           vers une société libérée des rapports de domination
+           et travaille sur toutes les formes de violences.
+           <span class="slgn">www.femmes-solidaires.org</span>            
+         </p>
+          <h4>La Fédération nationale GAMS</h4> 
+        <p>
+            La Fédération nationale GAMS est engagée dans la lutte contre toutes les 
+            formes de violences faites aux femmes, aux adolescentes et aux fillettes 
+            et vise à la promotion de la santé maternelle et infantile en direction des
+            populations immigrées et issues des immigrations. Elle agit plus particulièrement contre les mutilations sexuelles féminines, les mariages forcés et/ou précoces, les autres 
+           pratiques traditionnelles néfastes à la santé des femmes et des filles.
+        </p>
                         
-                                 <h4>La Fédération nationale GAMS</h4> 
-                         <p>
-                                La Fédération nationale GAMS est engagée dans la lutte contre toutes les 
-                                formes de violences faites aux femmes, aux adolescentes et aux fillettes 
-                                et vise à la promotion de la santé maternelle et infantile en direction des
-                                 populations immigrées et issues des immigrations. Elle agit plus particulièrement contre les mutilations sexuelles féminines, les mariages forcés et/ou précoces, les autres 
-                                pratiques traditionnelles néfastes à la santé des femmes et des filles.
-                        </p>
-                        
-                         <h4> Voix de Femmes</h4>
-                        <p>
-                          Voix de Femmes a pour but de lutter
-                         contre le mariage forcé, le crime dit d’honneur et 
-                         toute autre violence en lien avec le contrôle du choix 
-                         amoureux et de la sexualité.
-                          <span class="slgn">www.association-voixdefemmes.fr </span>      
-                       </p>
+          <h4> Voix de Femmes</h4>
+          <p>
+             Voix de Femmes a pour but de lutter
+             contre le mariage forcé, le crime dit d’honneur et 
+             toute autre violence en lien avec le contrôle du choix 
+             amoureux et de la sexualité.
+             <span class="slgn">www.association-voixdefemmes.fr </span>      
+          </p>
                         
                 </div>
-           </div>
-
-           
+          </div>
             <div class="intro">
               <div class="partie_1">
                   <p class="verte_2">  <a href="pres.html"></a> LES ASSOCIATIONS  <br>
@@ -229,18 +257,9 @@
                   <p class="verte_1" >Retrouvez les associations locales pouvant
                      apporter informations, soutien et accompagnement aux victimes              
                             <h5>  <a href="prestation.html"><span class="rouge">chercher une association proche de chez moi</span> </h5></a> 
-                     
-                      
-                </p>
-                        
-             
-  
+                  </p>
+             </div>
           </div>
-
-
-            </div>
-
-
             <div class="association_nationale">
               <div class="partie_1">
                 <img src="images/novembre.webp" alt="" id="deco">
@@ -249,7 +268,6 @@
                 
               </div>
             </div>
-
               <div class="footer-top ">
                 <div class="container">
                     <div class="row">
@@ -269,49 +287,50 @@
                             </div>
                             <div class="col-lg-2 col-md-6 footer-links">
                             </div>
-                            <div class="col-lg-3 col-md-6 footer-links">
-                                <h4>Our Services</h4>
-                                <ul>
-                                    <li>
-                                        <i class="bx bx-chevron-right"></i>
-                                         <a href="https://www.oneheart.fr/astuces/violences-faites-aux-femmes-comment-venir-en-aide-aux-victimes">Assistances de victimes</a>
-                                    </li>
-                                    <li>
-                                        <i class="bx bx-chevron-right"></i>
-                                         <a href="https://www.ducotedesfemmes.asso.fr/formation-sur-violences-faites-au-femmes/">Formation profetionnelles</a>
-                                    </li>
-                                        <li>
-                                            <i class="bx bx-chevron-right"></i>
-                                             <a href="https://www.timetopitch.com/post/leadership-au-feminin-comment-le-developper-et-le-renforcer">Leadership feminin</a>
-                                            </li>
-                                            <li>
-                                                <i class="bx bx-chevron-right"></i>
-                                                 <a href="https://information.tv5monde.com/video/togo-l-association-gf2d-lutte-contre-les-violences-faites-aux-femmes">Association de lutte contre les violences</a>
-                                         </li>
-                                            <li><i class="bx bx-chevron-right"></i>
-                                                     <a href="https://www.unicef.fr/sites/default/files/fiche_thematique-myunicef-mettre_fin_aux_violences_faites_aux_enfants.pdf">Lutte contre les violences faites au enfants</a>
-                                            </li>
-                             </ul>
-                            
-                         </div>
-                              <div class="col-lg-4 col-md-6 footer-newsletter">
-                                <h4>Our Newsletter</h4>
-                                <p>Abonné vous a notre Newsletter</p>
-                                <form action="" method="post"> 
-                                    <input type="email" name="email">
-                                    <input type="submit" value="Subscribe">
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                            <!-- debut du footer -->
+  <div class="col-lg-3 col-md-6 footer-links">
+      <h4>Our Services</h4>
+          <ul>
+            <li>
+              <i class="bx bx-chevron-right"></i>
+               <a href="https://www.oneheart.fr/astuces/violences-faites-aux-femmes-comment-venir-en-aide-aux-victimes">Assistances de victimes</a>
+            </li>
+               <li>
+                i class="bx bx-chevron-right"></i>
+                <a href="https://www.ducotedesfemmes.asso.fr/formation-sur-violences-faites-au-femmes/">Formation profetionnelles</a>
+              </li>
+                <li>
+                   <i class="bx bx-chevron-right"></i>
+                     <a href="https://www.timetopitch.com/post/leadership-au-feminin-comment-le-developper-et-le-renforcer">Leadership feminin</a>
+                </li>
+                    <li>
+                 <i class="bx bx-chevron-right"></i>
+                 <a href="https://information.tv5monde.com/video/togo-l-association-gf2d-lutte-contre-les-violences-faites-aux-femmes">Association de lutte contre les violences</a>
+               </li>
+                 <li><i class="bx bx-chevron-right"></i>
+               <a href="https://www.unicef.fr/sites/default/files/fiche_thematique-myunicef-mettre_fin_aux_violences_faites_aux_enfants.pdf">Lutte contre les violences faites au enfants</a>
+               </li>
+               </ul>
+<!-- news letter -->
+  </div>
+      <div class="col-lg-4 col-md-6 footer-newsletter">
+       <h4>Our Newsletter</h4>
+       <p>Abonné vous a notre Newsletter</p>
+          <form action="" method="post"> 
+          <input type="email" name="email">
+          <input type="submit" value="Subscribe">
+          </form>
+     </div>
+        </div>
+        </div>
+     </div>
               
               
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
               
               
-                  <script src="/docs/5.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  <script src="/docs/5.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
               
                     
               
