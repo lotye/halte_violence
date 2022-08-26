@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+body { 
+    background: linear-gradient(120deg,#2980b9, #8e44ad); }
+
+section {
+    display: flex;
+    width: 100%;
+    height: 25vh;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+.rond {
+    border-radius: .3rem !important;
+    width: 300px !important;
+    margin-left: 5%;
+    padding: 50px;
+    margin-bottom: 50px;
+    top: 113px;
+  }
+
+ul li {
+    padding: 10px 15px;
+    margin: 0 10px;
+    position: relative;
+}
+
+ul li::before,
+ul li::after {
+    position: absolute;
+    content: '';
+    width: 0;
+    height: 2px;
+    background-color: #fff;
+    transition: 0.3s all ease-in-out;
+}
+
+ul li::before {
+    top: 0;
+    left: 0;
+}
+
+ul li::after {
+    bottom: 0;
+    right: 0;
+}
+
+ul li.active::before,
+ul li:hover::before {
+    right: 0;
+    left: auto;
+    width: 100%;
+    background-color: #f39c12;
+}
+
+ul li.active::after,
+ul li:hover::after {
+    right: auto;
+    left: 0;
+    width: 100%;
+    background-color: #f39c12;
+}
+
+ul li a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+    transition: 0.3s all ease-in-out;
+}
+
+ul li.active a,
+ul li:hover a {
+    color: #f39c12;
+}
+
+
+.section1 {
+    display: block;
+    width: 20%;
+    height: 25vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.grace {
+    flex-direction: column;
+    list-style: none;
+}
+.grace li{
+  margin: 22px;  
+}
+
+
+ .grace li.active::after{
+    right: auto;
+    left: 0;
+    width: 0;
+    background-color: none;
+}
+
+
+ .grace li.active::before {
+    right: 0;
+    left: auto;
+    width: 0;
+    background-color: none;
+}
+
+
+
+.grace li.active::before {
+    right: 0;
+    left: auto;
+    width: 0;
+    background-color: none;
+}
+
+.grace li.active::after{
+    right: auto;
+    left: 0 !important;
+    width: 0 !important;
+    background-color: #f39c12;
+}
+
+
+
+.grace  li:hover::before {
+    right: 0;
+    left: auto;
+    width: 0;
+    background-color: none;
+}
+
+
+.grace  li:hover::after {
+    right: auto;
+    left: 0;
+    width: 0;
+    background-color:none;
+}
+
+.interface{
+    display: flex;
+}
+.grace{
+    width: 20%;
+    background-color: #a1b2c2;
+}
+.afichage{
+    width: 80%;
+}
+
+
+

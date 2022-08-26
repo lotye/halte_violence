@@ -1,8 +1,8 @@
 
 
 <form action="./db.php" method="post">
-    <div class="col-md-7 col-lg-8">
-      <h4 class="mb-3">Remplisser ce formulaire ,porter plainte</h4>
+    <div class="">
+        <h4 class="mb-3">Remplisser ce formulaire ,porter plainte</h4>
       
         <div class="row g-3">
           <div class="col-sm-6">
@@ -92,12 +92,15 @@
         <div class="form-floating">
           <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea" name="plainte"></textarea>
           <label for="floatingTextarea"></label>
-        </div> <br>
+        </div> 
+          <br>
         <div>
-        <button class="btn btn-outline-danger separer" href="#" role="button">Envoyer</button>
-       </div>
+           <button class="btn btn-outline-danger separer" href="#" role="button">Envoyer</button>
+         </div>
         <hr class="my-4">
+      
       </div>
-
-      </form>
+      </div>
+    </div>
+</form>
 

@@ -31,16 +31,16 @@ if(isset($_POST['nom']) && isset($_POST['prenom']) && isset($_POST['usuel']) && 
       $servername = "localhost";
       $username = "root";
       $password = "";
-      $dbname = "esayage";
+      $dbname = "import";
 
 
 try {
   $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
   // set the PDO error mode to exception
  
-  $sql = "INSERT INTO $region (`nom`, `prenom`, `nom_usuel`, `email`, `votre_numero_de_telephone`, `personne_a_prevenir`, `ville_village`, `region`, `ma_plainte`)VALUES (:nom, :prenom, :nom_usuel, :email, :votre_numero_de_telephone, :personne_a_prevenir, :ville_village, :region, :ma_plainte)";
+  $sqli = "INSERT INTO $region (`nom`, `prenom`, `nom_usuel`, `email`, `votre_numero_de_telephone`, `personne_a_prevenir`, `ville_village`, `region`, `ma_plainte`)VALUES (:nom, :prenom, :nom_usuel, :email, :votre_numero_de_telephone, :personne_a_prevenir, :ville_village, :region, :ma_plainte)";
  
-  $send = $conn->prepare($sql);
+  $send = $conn->prepare($sqli);
   $send->execute([
     'nom' => $nom ,
     'prenom' => $prenom,
@@ -63,13 +63,20 @@ try {
   // var_dump($nbr);+
   echo "Nombre d'utilisateurs enregistrés ".$nbr[0];
   echo "</br>";
+
+
+
   // *******************le nombre d'utilisateurs de la base de données
 
   
   echo "New record created successfully";
 } catch(PDOException $e) {
-  echo $sql . "<br>" . $e->getMessage();
+  echo $sqli . "<br>" . $e->getMessage();
 }
+
+// affichage
+
+
 
 $conn = null;
 
@@ -78,8 +85,12 @@ $conn = null;
 
 }
 else {
-  echo 'error ';
+  echo 'connect error ';
 }
+
+
+
+
 
 
 ?>
