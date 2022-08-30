@@ -1,8 +1,3 @@
-<?php
-session_start();
-
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,18 +10,7 @@ session_start();
 <body>
 <?php
 
-      // CONNEXION A LA BD
-      $servername = "localhost";
-      $username = "root";
-      $password = "";
-      $dbname = "esayage";
-
-
-try {
-  $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
-} catch(PDOException $e) {
-  echo $sql . "<br>" . $e->getMessage();
-}
+include('connect.php');
 
 $sqli = "SELECT * FROM centrale";
  

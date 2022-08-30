@@ -29,6 +29,35 @@ $sqli = "SELECT * FROM maritime";
   $result = $sende->execute();
   $plaintes = $sende->fetchAll();
 ?>
+
+<?php
+// Store the cipher method
+$ciphering = "AES-128-CTR";
+$options = 0;
+$plainte='nom';
+// Store the decryption key
+$decryption_key = "GeeksforGeeks"; 
+
+// Use openssl_decrypt() function to decrypt the data
+$decryption=openssl_decrypt ($plaintes, $ciphering, 
+         $options, $decryption_iv);
+?>
+<?php
+ 
+  // Non-NULL Initialization Vector for decryption
+$decryption_iv = '1234567891011121';
+  
+// Store the decryption key
+$decryption_key = "GeeksforGeeks";
+  
+// Use openssl_decrypt() function to decrypt the data
+$decryption=openssl_decrypt ($plaintes, $ciphering, 
+        $decryption_key, $options, $decryption_iv);
+  
+// Display the decrypted string
+echo "Decrypted String: " . $decryption;
+?>
+
 <table>
   <thead>
     <tr>

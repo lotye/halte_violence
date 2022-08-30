@@ -30,5 +30,6 @@ $sqli = "SELECT * FROM administrateur";
     $_SESSION['state'] = 'autorisé';
     header('Location: interface.php');
   echo 'pop!!!';
+  
 }
 ?>

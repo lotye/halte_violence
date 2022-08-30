@@ -4,6 +4,9 @@
 if(isset($_POST['nom']) && isset($_POST['prenom']) && isset($_POST['usuel']) && isset($_POST['email']) && isset($_POST['telephone']) && isset($_POST['prevenir']) && isset($_POST['ville']) && isset($_POST['region']) && isset($_POST['plainte'])) {
 
   $nom = $_POST['nom'];
+  
+// Display the original string
+echo "Original String: " . $nom;
     
     $prenom = $_POST['prenom'];
 
@@ -23,7 +26,28 @@ if(isset($_POST['nom']) && isset($_POST['prenom']) && isset($_POST['usuel']) && 
       $plainte = $_POST['plainte'];
 
 
+      // Store the cipher method
+$ciphering = "AES-128-CTR";
+  
+// Use OpenSSl Encryption method
+$iv_length = openssl_cipher_iv_length($ciphering);
+$options = 0;
+  
+// Non-NULL Initialization Vector for encryption
+$encryption_iv = '1234567891011121';
+  
+// Store the encryption key
+$encryption_key = "GeeksforGeeks";
+  
+// Use openssl_encrypt() function to encrypt the data
+$encryption = openssl_encrypt($nom, $ciphering,
+            $encryption_key, $options, $encryption_iv);
+  
+// Display the encrypted string
+echo "Encrypted String: " . $encryption . "\n";
 
+
+  
 
     
 
@@ -42,7 +66,7 @@ try {
  
   $send = $conn->prepare($sqli);
   $send->execute([
-    'nom' => $nom ,
+    'nom' => $encryption,
     'prenom' => $prenom,
     'nom_usuel' => $usuel,
     'email' => $email,

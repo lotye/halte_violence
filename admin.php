@@ -30,13 +30,16 @@ $sqli = "SELECT * FROM kara";
     </tr>
   </thead>
 <tbody>
+
+
+
 <?php
   foreach($plaintes as $plainte){
     ?>
       
   <tr>
     <td><?= $plainte['id']; ?></td>
-    <td><?= $plainte['nom']; ?></td>
+    <td><?= $plainte['nom'];?></td>
     <td><?= $plainte['prenom']; ?></td>
     <td><?= $plainte['email']; ?></td>
     <td><?= $plainte['region']; ?></td>
