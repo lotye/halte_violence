@@ -21,7 +21,7 @@ $sqli = "SELECT * FROM administrateur";
   $input_mp = $_POST['mp'];
  
 
- if ($input_mail !== $db_mail && $input_mp !== $db_mp) {
+ if ($input_mail !== $db_mail || $input_mp !== $db_mp) {
   echo'praaaaa!!!';
   header('Location: securite.php');
   
