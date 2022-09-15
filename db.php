@@ -62,7 +62,7 @@ try {
   $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
   // set the PDO error mode to exception
  
-  $sqli = "INSERT INTO $region (`nom`, `prenom`, `nom_usuel`, `email`, `votre_numero_de_telephone`, `personne_a_prevenir`, `ville_village`, `region`, `ma_plainte`)VALUES (:nom, :prenom, :nom_usuel, :email, :votre_numero_de_telephone, :personne_a_prevenir, :ville_village, :region, :ma_plainte)";
+  $sqli = "INSERT INTO $region (`nom`, `prenom`, `nom_usuel`, `email`, `votre_numero_de_telephone`, `personne_a_prevenir`, `ville_village`, `region`, `ma_plainte`)VALUES (:nom, :prenom, :nom_usuel, :email, :votre_numero_de_telephone, :personne_a_prevenir, :ville_village, :region, :ma_plainte )";
  
   $send = $conn->prepare($sqli);
   $send->execute([

@@ -30,6 +30,7 @@ $sqli = "SELECT * FROM savane";
     </tr>
   </thead>
 <tbody>
+  
 <?php
   foreach($plaintes as $plainte){
     ?>

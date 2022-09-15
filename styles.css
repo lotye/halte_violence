@@ -8,6 +8,7 @@ header{
   display: flex;
   
 }
+
 .size{
 font-size:  50px ;
 text-align: center;
@@ -452,6 +453,7 @@ padding: 20px;
 .ba_niveau{
     display: inline-block;
     margin-top: 30px;
+    color: #00a037;
 }
 li{
     list-style-type: circle;
@@ -463,9 +465,6 @@ li{
 }
 h3{
     color:white ;
-}
-h3{
-  color: green;
 }
 
 /* traitement de lasection profetionnel */
@@ -731,6 +730,20 @@ padding: 20px;
     background-size: cover;
     background-position: center;
   }
+  
+  .dev_web{
+    background-image: url(images/liste-idee-article-de-blog.webp);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+  }
+  #josias .display-4 {
+    font-size: calc calc(2.475rem + 2.7vw);
+    font-weight: 215;
+    line-height: 6.2 !important;
+    color: #ed0000;
+    text-align: center;
+    }
   #deco{
     width: 900px;
     height: 500px;

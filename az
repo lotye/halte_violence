@@ -1,4 +1,0 @@
-`nom`, `prenom`, `nom_usuel`, `email`, `votre_numero_de_telephone`, `personne_a_prevenir`, `ville_village`, `region`, `ma_plainte`
-    font-family: 'Poppins', sans-serif;
-    
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');

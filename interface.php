@@ -230,10 +230,11 @@ body {
 
 
 <div class="container  " >
+  <div class=""><p>INFORMATION ADMINISTRATIFS</p> </div>
 
   <div class="row items-content-center">
             <div class="col-sm-6">
-              <label for="firstName" class="form-label">First name</label>
+              <label for="firstName" class="form-label">Nom</label>
               <input type="text" class="form-control" id="firstName" placeholder="" value="" required="">
               <div class="invalid-feedback">
                 Valid first name is required.
@@ -241,7 +242,7 @@ body {
             </div>
 
             <div class="col-sm-6">
-              <label for="lastName" class="form-label">Last name</label>
+              <label for="lastName" class="form-label">Prenom</label>
               <input type="text" class="form-control" id="lastName" placeholder="" value="" required="">
               <div class="invalid-feedback">
                 Valid last name is required.
@@ -249,7 +250,7 @@ body {
             </div>
 
             <div class="col-12">
-              <label for="username" class="form-label">Username</label>
+              <label for="username" class="form-label">Nom d'utilisateur</label>
               <div class="input-group has-validation">
                 <span class="input-group-text">@</span>
                 <input type="text" class="form-control" id="username" placeholder="Username" required="">
@@ -268,23 +269,19 @@ body {
             </div>
 
             <div class="col-12">
-              <label for="address" class="form-label">Address</label>
-              <input type="text" class="form-control" id="address" placeholder="1234 Main St" required="">
+              <label for="address" class="form-label">Poste de Responsabilité</label>
+              <input type="text" class="form-control" id="address" placeholder="responsable genre ,profesionnel de santé,securité..." required="">
               <div class="invalid-feedback">
                 Please enter your shipping address.
               </div>
             </div>
 
-            <div class="col-12">
-              <label for="address2" class="form-label">Address 2 <span class="text-muted">(Optional)</span></label>
-              <input type="text" class="form-control" id="address2" placeholder="Apartment or suite">
-            </div>
 
             <div class="col-md-5">
-              <label for="country" class="form-label">Country</label>
+              <label for="country" class="form-label">horaire de prise de service</label>
               <select class="form-select" id="country" required="">
-                <option value="">Choose...</option>
-                <option>United States</option>
+                <option value="">7H - 17H</option>
+                <option>17H - 7H</option>
               </select>
               <div class="invalid-feedback">
                 Please select a valid country.
@@ -292,23 +289,24 @@ body {
             </div>
 
             <div class="col-md-4">
-              <label for="state" class="form-label">State</label>
+              <label for="state" class="form-label">Types de requettes traites</label>
               <select class="form-select" id="state" required="">
-                <option value="">Choose...</option>
-                <option>California</option>
+                <option value="">Temoins, Victimes</option>
+                <option value="">Victimes.</option>
+                <option>Temoins</option>
               </select>
               <div class="invalid-feedback">
                 Please provide a valid state.
               </div>
             </div>
 
-            <div class="col-md-3">
-              <label for="zip" class="form-label">Zip</label>
-              <input type="text" class="form-control" id="zip" placeholder="" required="">
+            
+            <div class="col-sm-6">
+              <label for="firstName" class="form-label">Nombre de requetes traités</label>
+              <input type="text" class="form-control" id="firstName" placeholder="" value="" required="">
               <div class="invalid-feedback">
-                Zip code required.
               </div>
-            </div>
+
           </div>
   </div>
 
