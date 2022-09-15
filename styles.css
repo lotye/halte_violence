@@ -8,6 +8,41 @@ header{
   display: flex;
   
 }
+.partenaires{
+  display: flex;
+  width: 100%;
+  margin-top: 19px;
+  flex-wrap: wrap;
+  margin-bottom: 100px;
+
+}
+.lien_sociaux{
+  width: 100%;
+  height: 50px;
+  background-color: #aab2bb;
+  display: flex;
+  justify-content: center;
+}
+.sociale{
+  margin-top: 10px;
+  justify-content: center;
+}
+#partener{
+  height: 80px;
+  margin-top: 20px;
+  margin-left: 90px;
+
+}
+.ensemble{
+  text-align: center;
+  color: green;
+  margin-top: 20px;
+  margin-bottom: 16px;
+}
+.parternership{
+
+  flex: 0 1 25%;
+}
 
 .size{
 font-size:  50px ;
@@ -842,8 +877,6 @@ padding: 20px;
 }
 hr{
   width: 50%;
-}
-iframe{
 }
 
 

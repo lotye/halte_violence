@@ -1,0 +1,1928 @@
+
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #f1f1eb} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #336699;} .eu-cookie-withdraw-tab { border-color: #336699;}</style>
+<link rel="icon" href="/themes/d8mo_childtheme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.geneve-int.ch/" />
+<link rel="alternate" hreflang="fr" href="https://www.geneve-int.ch/fr" />
+<link rel="alternate" hreflang="de" href="https://www.geneve-int.ch/de" />
+<link rel="canonical" href="https://www.geneve-int.ch/fr/homepage" />
+<link rel="shortlink" href="https://www.geneve-int.ch/fr/node/5176" />
+
+    <title>Homepage | Genève internationale</title>
+    <link rel="stylesheet" media="all" href="/libraries/slick/slick/slick.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/libraries/superfish/css/superfish.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/contrib/slick/css/layout/slick.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/custom/gi_adapt/css/gi_adapt.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/custom/gi_adapt/css/gi_calendar.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/custom/gi_adapt/css/gi_mobile.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/contrib/blazy/css/blazy.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/contrib/blazy/css/components/blazy.loading.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/contrib/blazy/css/components/blazy.ratio.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/contrib/blazy/css/components/grid/blazy.column.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/libraries/photoswipe/dist/photoswipe.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/libraries/photoswipe/dist/default-skin/default-skin.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/contrib/eu_cookie_compliance/css/eu_cookie_compliance.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/libraries/slick/slick/slick-theme.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/contrib/slick/css/theme/slick.theme.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/contrib/slick/css/theme/slick.theme--full.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/modules/contrib/slick/css/theme/slick.theme--fullwidth.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/core/assets/vendor/normalize-css/normalize.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/core/normalize-fixes.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/action-links.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/breadcrumb.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/button.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/collapse-processed.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/container-inline.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/details.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/exposed-filters.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/field.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/form.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/icons.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/inline-form.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/item-list.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/link.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/links.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/menu.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/more-link.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/pager.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tabledrag.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tableselect.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tablesort.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tabs.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/textarea.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/ui-dialog.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/messages.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/node.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/file.css?rgfyym" />
+<link rel="stylesheet" media="all" href="/themes/d8mo_childtheme/dist/css/global/styles.css?rgfyym" />
+
+    <script src="https://use.fontawesome.com/releases/v5.12.0/js/all.js" defer crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/releases/v5.12.0/js/v4-shims.js" defer crossorigin="anonymous"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+      <!-- Matomo -->
+      <script type="text/javascript">
+        var _paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+          var u="https://ge.ch/siteofficielmatomo/";
+          _paq.push(['setTrackerUrl', u+'matomo.php']);
+          _paq.push(['setSiteId', '16']);
+          var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+          g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+      <!-- End Matomo Code -->
+      </head>
+  <body class="page-nid-5176 user_0 path-frontpage page-node-type-page">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      
+<div class="page" style='border:0px solid green;'>
+
+        
+      <header id="header" class="clearfix" role="banner" aria-label="Site header">
+      <div class="container">
+        <div class="region region-header">
+  <div class="row">
+    <div class="col-6 col-lg-3">
+      <a href="/fr" class="logo"></a>
+    </div>
+    <div class="col-6 col-lg-2">
+      <div class="logo-canton"></div>
+    </div>
+    <div class="col-sm-12 col-lg-7">
+      <div class="wrapper">
+          <div class="content">
+            <div id="block-customheader" class="block block-ino-header block-header-block">
+  <div class="block-wrapper">
+    
+        
+          
+
+<ul class="language-switcher-language-url"><li hreflang="en" data-drupal-link-query="{&quot;_exception_statuscode&quot;:&quot;404&quot;,&quot;amp&quot;:&quot;&quot;,&quot;destination&quot;:&quot;120&quot;,&quot;page&quot;:&quot;227&quot;}" data-drupal-link-system-path="&lt;front&gt;" class="en"><a href="/?amp=&amp;destination=120&amp;page=227&amp;_exception_statuscode=404" class="language-link" hreflang="en" data-drupal-link-query="{&quot;_exception_statuscode&quot;:&quot;404&quot;,&quot;amp&quot;:&quot;&quot;,&quot;destination&quot;:&quot;120&quot;,&quot;page&quot;:&quot;227&quot;}" data-drupal-link-system-path="&lt;front&gt;">English</a></li><li hreflang="fr" data-drupal-link-query="{&quot;_exception_statuscode&quot;:&quot;404&quot;,&quot;amp&quot;:&quot;&quot;,&quot;destination&quot;:&quot;120&quot;,&quot;page&quot;:&quot;227&quot;}" data-drupal-link-system-path="&lt;front&gt;" class="fr"><a href="/fr?amp=&amp;destination=120&amp;page=227&amp;_exception_statuscode=404" class="language-link" hreflang="fr" data-drupal-link-query="{&quot;_exception_statuscode&quot;:&quot;404&quot;,&quot;amp&quot;:&quot;&quot;,&quot;destination&quot;:&quot;120&quot;,&quot;page&quot;:&quot;227&quot;}" data-drupal-link-system-path="&lt;front&gt;">Français</a></li><li hreflang="de" data-drupal-link-query="{&quot;_exception_statuscode&quot;:&quot;404&quot;,&quot;amp&quot;:&quot;&quot;,&quot;destination&quot;:&quot;120&quot;,&quot;page&quot;:&quot;227&quot;}" data-drupal-link-system-path="&lt;front&gt;" class="de"><a href="/de?amp=&amp;destination=120&amp;page=227&amp;_exception_statuscode=404" class="language-link" hreflang="de" data-drupal-link-query="{&quot;_exception_statuscode&quot;:&quot;404&quot;,&quot;amp&quot;:&quot;&quot;,&quot;destination&quot;:&quot;120&quot;,&quot;page&quot;:&quot;227&quot;}" data-drupal-link-system-path="&lt;front&gt;">Deutsch</a></li></ul>
+<form class="search-bar-form" data-drupal-selector="search-bar-form" action="/search" method="get" id="search-bar-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keywords form-item-keywords form-no-label">
+      <label for="edit-keywords" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keywords" type="search" id="edit-keywords" name="keywords" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+
+<div class="field field--name-field-about-body field--type-string-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><br />
+<br />
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-about-link field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/propos" gi-link-theme="arrow" target="">À propos</a></div>
+            </div>
+</div>
+
+
+      </div>
+</div>
+
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </header>
+  
+            <div class="primary-menu">
+          <div class="region region-primary-menu">
+    <div id="block-mainnavigation" class="block block-superfish block-superfishmain">
+  <div class="block-wrapper">
+    
+        
+          
+<ul id="superfish-main" class="menu sf-menu sf-main sf-navbar sf-style-none">
+  
+<li id="main-menu-link-content032056b5-8bc7-4eb5-be4a-78b45af7f771" class="sf-depth-1 menuparent"><a href="/fr/actualit" gi-link-theme="" target="" class="sf-depth-1 menuparent">Actualités</a><ul><li id="main-menu-link-content35d2117d-9064-458c-a243-ce659a99bdb6" class="sf-depth-2 sf-no-children"><a href="/fr/movers-and-shakers" gi-link-theme="" target="" class="sf-depth-2">Movers and Shakers</a></li><li id="main-menu-link-contenta7b25f6e-e3e4-463d-98fb-9a18419dfbf4" class="sf-depth-2 sf-no-children"><a href="/fr/interviews" gi-link-theme="" target="" class="sf-depth-2">Interviews</a></li><li id="main-menu-link-contente1349d8f-61ad-4a3d-b3ac-ab24684339ef" class="sf-depth-2 sf-no-children"><a href="/fr/l-oeil-de-la-geneve-internationale" gi-link-theme="" target="" class="sf-depth-2">L&#039;oeil de la Genève internationale</a></li><li id="main-menu-link-contenta8a08610-1563-45a4-a8b8-935a26a4b1f9" class="sf-depth-2 sf-no-children"><a href="/fr/focus" gi-link-theme="" target="" class="sf-depth-2">Focus</a></li><li id="main-menu-link-content01263e7a-eb8c-4878-ace3-b6d21d40e5fe" class="sf-depth-2 sf-no-children"><a href="/fr/platforms" gi-link-theme="" target="" class="sf-depth-2">Plateformes</a></li><li id="main-menu-link-content301d69c7-71cc-4a4c-8dff-dd4322c8d207" class="sf-depth-2 sf-no-children"><a href="/fr/m-dias" gi-link-theme="" target="" class="sf-depth-2">Médias</a></li><li id="main-menu-link-contentca763131-8c8f-49c6-a792-5b55e4fc6170" class="sf-depth-2 sf-no-children"><a href="/fr/videos" gi-link-theme="" target="" class="sf-depth-2">Vidéos</a></li></ul></li><li id="main-menu-link-contente5efbfa6-06f4-438a-8670-72781b3eb14f" class="sf-depth-1 sf-no-children"><a href="/fr/calendar" gi-link-theme="" target="" class="sf-depth-1">Calendrier</a></li><li id="main-menu-link-content9ae8cd0b-e32e-4bf6-9147-8285f9e28f07" class="sf-depth-1 sf-no-children"><a href="/fr/whoswho" gi-link-theme="" target="" class="sf-depth-1">Who&#039;s who</a></li><li id="main-menu-link-contentdfb2ffd9-c3d1-4af2-a825-d7775f6b288d" class="sf-depth-1 menuparent"><a href="/fr/ressources" gi-link-theme="" target="" class="sf-depth-1 menuparent">Ressources</a><ul><li id="main-menu-link-content6dd9c87a-eedc-4c66-845e-14aea46a7da0" class="sf-depth-2 sf-no-children"><a href="/fr/services" gi-link-theme="" target="" class="sf-depth-2">Services de soutien</a></li><li id="main-menu-link-content37cd983b-223a-40c4-9063-6be545feb348" class="sf-depth-2 sf-no-children"><a href="/fr/jobs" gi-link-theme="" target="" class="sf-depth-2">Emploi</a></li><li id="main-menu-link-content446ccbd2-eda7-4609-9906-06aa8e472717" class="sf-depth-2 sf-no-children"><a href="/fr/formations" gi-link-theme="" target="" class="sf-depth-2">Formations</a></li><li id="main-menu-link-contentd6199406-28c6-4b4c-b8f9-47f401090b62" class="sf-depth-2 sf-no-children"><a href="/fr/infrastructures-conf-renci-res" gi-link-theme="" target="" class="sf-depth-2">Infrastructures conférencières</a></li><li id="main-menu-link-contentb974f387-1883-4d69-85ad-de44ff42c376" class="sf-depth-2 sf-no-children"><a href="/fr/documents" gi-link-theme="" target="" class="sf-depth-2">Documents</a></li><li id="main-menu-link-contentbfdffada-9ede-4c9c-91ed-89eecb3b29b2" class="sf-depth-2 sf-no-children"><a href="/fr/projet-de-changement-de-perception" gi-link-theme="" target="" class="sf-depth-2">Projet de changement de perception</a></li><li id="main-menu-link-content89bc9cd2-b065-42d9-8912-1fcc68f75fe3" class="sf-depth-2 sf-no-children"><a href="/fr/whoswho?keywords=&amp;field_organization_types%5B0%5D=15&amp;field_organization_types%5B1%5D=15" gi-link-theme="" target="" class="sf-depth-2">Autorités locales</a></li></ul></li><li id="main-menu-link-contentb877a50a-2024-4586-bf5f-431de075c0f8" class="sf-depth-1 menuparent"><a href="/fr/geneveinternationale" gi-link-theme="" target="" class="sf-depth-1 menuparent">La Genève internationale</a><ul><li id="main-menu-link-contentea174ff6-de5c-40d1-880d-16fb3c8e5186" class="sf-depth-2 sf-no-children"><a href="/fr/faits-et-chiffres" gi-link-theme="" target="" class="sf-depth-2">Faits et chiffres</a></li><li id="main-menu-link-contentc29f343c-219c-4812-b3ff-9100dea69c93" class="sf-depth-2 menuparent"><a href="/fr/expertise-et-impact" gi-link-theme="" target="" class="sf-depth-2 menuparent">Expertise et impact</a><ul><li id="main-menu-link-contenta8fa7442-47fa-4ee3-8487-2d1c9f54fb33" class="sf-depth-3 sf-no-children"><a href="/fr/domaines-dexpertise-et-ressources-cles" gi-link-theme="" target="" class="sf-depth-3">Les domaines d&#039;expertise</a></li><li id="main-menu-link-contentc9e6b662-0591-4bbb-8176-193258a8794f" class="sf-depth-3 sf-no-children"><a href="/fr/chiffres-cles" gi-link-theme="" target="" class="sf-depth-3">Les organisations en chiffres</a></li><li id="main-menu-link-content67a3dfa1-0a6c-4cb9-babc-56a426669515" class="sf-depth-3 sf-no-children"><a href="/fr/realisations" gi-link-theme="" target="" class="sf-depth-3">Les résultats concrets</a></li></ul></li><li id="main-menu-link-content8f40275d-02db-4061-93da-03714c366181" class="sf-depth-2 menuparent"><a href="/fr/histoire" gi-link-theme="" target="" class="sf-depth-2 menuparent">Histoire</a><ul><li id="main-menu-link-content1e6d084e-8da2-4e08-9c00-b821e5f47c0b" class="sf-depth-3 sf-no-children"><a href="/fr/reperes-historiques" gi-link-theme="" target="" class="sf-depth-3">Repères historiques</a></li><li id="main-menu-link-contentc61d595a-e27c-4c5f-b334-755c409e6e6d" class="sf-depth-3 sf-no-children"><a href="/fr/documents-dhistoire" gi-link-theme="" target="" class="sf-depth-3">Documents d&#039;histoire</a></li><li id="main-menu-link-content8948dfb5-1a43-403e-9139-12d98b60503f" class="sf-depth-3 sf-no-children"><a href="/fr/les-prix-nobel-et-gen-ve" gi-link-theme="" target="" class="sf-depth-3">Prix Nobel</a></li><li id="main-menu-link-contentff6a5f3a-ba16-4f99-9bbe-0e4b5593ce3a" class="sf-depth-3 sf-no-children"><a href="/fr/rencontres-geneve" gi-link-theme="" target="" class="sf-depth-3">Rencontres à Genève</a></li><li id="main-menu-link-content0ad3e7c5-7011-48f8-8c6c-fc15d84acb64" class="sf-depth-3 sf-no-children"><a href="/fr/lhistoire-du-domaine-bati-des-institutions-internationales-geneve" gi-link-theme="" target="" class="sf-depth-3">Histoire de l&#039;architecture</a></li></ul></li><li id="main-menu-link-contenta0a9ec7a-bbbb-49ea-bb5b-130fedd45a41" class="sf-depth-2 sf-no-children"><a href="/fr/batiments-architecture" gi-link-theme="" target="" class="sf-depth-2">Bâtiments</a></li><li id="main-menu-link-contentfd72dc69-71b9-498f-a4ac-c4b2bb59fb3e" class="sf-depth-2 sf-no-children"><a href="/fr/discover-international-genevas-museums-tours-exhibitions" gi-link-theme="" target="" class="sf-depth-2">Visites</a></li></ul></li>
+</ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+      
+        
+        
+      <main role="main">
+      <a id="main-content" tabindex="-1"></a>
+        <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+<article role="article" about="/fr/homepage" class="node node--type-page node--promoted node--view-mode-full">
+    <div class="node__content page">
+                        <div class="nodePage">
+            <div class="content-top container">
+                
+<div class="field field--name-breadcrumb field--type-breadcrumb field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="/fr">Home</a>
+              </li>
+        </ol>
+  </nav>
+</div>
+            </div>
+</div>
+
+                <h1 class="nodeTitle">
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Homepage</div>
+            </div>
+</div>
+</h1>
+                
+                
+            </div>
+            <div class="content-bottom">
+                
+<div class="field field--name-field-paragraphs field--type-entity-reference-revisions field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">
+<div  class="paragraph-media">
+  <div class="wrapper">
+    <div class="content">
+      <h1>
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Genève, centre de coopération internationale</div>
+            </div>
+</div>
+</h1>
+      
+<div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p class="text-align-justify">Ce site a pour but d'aider les acteurs mondiaux basés à Genève à connaître les ressources mises à leur disposition. Il contient la liste la plus complète d’organisations internationales, d’ONG, de missions permanentes et d’autres intervenants. Il offre aussi le calendrier le plus exhaustif d’événements internationaux ayant lieu à Genève. Les différents services de soutien proposés par les autorités hôte et leurs partenaires y sont également mis en évidence.</p>
+</div>
+            </div>
+</div>
+
+    </div>
+  </div>
+  
+<div class="field field--name-media field--type-media-paragraph-media field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><article class="media media--type-video media--view-mode-default">
+  
+      
+<div class="field field--name-uid field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><span lang="" about="/fr/user/1">administrator</span></div>
+            </div>
+</div>
+
+<div class="field field--name-created field--type-created field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Thu 25/04/2019 - 22:44</div>
+            </div>
+</div>
+
+<div class="field field--name-field-media-video-file field--type-file field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">
+<video  width="640" height="480" muted="muted" autoplay="autoplay" loop="loop" playsinline="playsinline">
+      <source  src="/sites/default/files/2019-08/video2.mp4" type="video/mp4" />
+      <source  />
+  </video>
+</div>
+            </div>
+</div>
+
+  </article>
+</div>
+            </div>
+</div>
+
+</div>
+</div>
+                    <div class="field__item">
+
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Que voulez-vous savoir?</div>
+            </div>
+</div>
+
+  <div class="paragraph grid">
+    <div class="container">
+      <div class="row">
+              <div class="col-lg-4 col-sm-6">
+            <div class="dark paragraph paragraph--type--ino-pt-card paragraph--view-mode--default">
+          <div class="container">
+        <div  class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-ph-card-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-card_450_200">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/card_450_200/public/2019-05/Banner-whos-who_0.jpg?itok=UgTIqPsT" width="500" height="225" alt="Banner-whos-who" loading="lazy" typeof="foaf:Image" class="image-style-card-450-200" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+      
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Who&#039;s Who</div>
+            </div>
+</div>
+
+<div class="clearfix text-formatted field field--name-field-ph-card-summary field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>Cherchez une organisation ou une mission</p>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-links field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/whoswho" gi-link-theme="arrow" target="">En savoir plus</a></div>
+            </div>
+</div>
+
+  </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+              <div class="col-lg-4 col-sm-6">
+            <div class="dark paragraph paragraph--type--ino-pt-card paragraph--view-mode--default">
+          <div class="container">
+        <div  class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-ph-card-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-card_450_200">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/card_450_200/public/2019-05/Homepage-CALENDAR.jpg?itok=lbmAsVEP" width="500" height="225" alt="Homepage-CALENDAR" loading="lazy" typeof="foaf:Image" class="image-style-card-450-200" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+      
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Calendrier</div>
+            </div>
+</div>
+
+<div class="clearfix text-formatted field field--name-field-ph-card-summary field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>Découvrez l'ensemble des activités de la Genève internationale et inscrivez-vous à notre newsletter hebdomadaire</p>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-links field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/calendar" gi-link-theme="arrow" target="">En savoir plus</a></div>
+            </div>
+</div>
+
+  </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+              <div class="col-lg-4 col-sm-6">
+            <div class="dark paragraph paragraph--type--ino-pt-card paragraph--view-mode--default">
+          <div class="container">
+        <div  class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-ph-card-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-card_450_200">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/card_450_200/public/2019-05/Homepage-ACHIEVEMENTS.jpg?itok=FPPWjW6_" width="500" height="225" alt="Homepage-ACHIEVEMENTS" loading="lazy" typeof="foaf:Image" class="image-style-card-450-200" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+      
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Genève internationale</div>
+            </div>
+</div>
+
+<div class="clearfix text-formatted field field--name-field-ph-card-summary field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>Faits &amp; chiffres, impact, histoire, visites </p>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-links field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/geneveinternationale" gi-link-theme="arrow" target="">En savoir plus</a></div>
+            </div>
+</div>
+
+  </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+              <div class="col-lg-4 col-sm-6">
+            <div class="dark paragraph paragraph--type--ino-pt-card paragraph--view-mode--default">
+          <div class="container">
+        <div  class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-ph-card-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-card_450_200">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/card_450_200/public/2019-08/Banner-buildings.jpg?itok=mICoqDqj" width="500" height="225" alt="Banner-buildings" loading="lazy" typeof="foaf:Image" class="image-style-card-450-200" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+      
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Bâtiments et architecture</div>
+            </div>
+</div>
+
+<div class="clearfix text-formatted field field--name-field-ph-card-summary field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>Découvrez l'histoire architecturale et les projets en cours</p>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-links field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/batiments-architecture" gi-link-theme="arrow" target="">En savoir plus</a></div>
+            </div>
+</div>
+
+  </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+              <div class="col-lg-4 col-sm-6">
+            <div class="dark paragraph paragraph--type--ino-pt-card paragraph--view-mode--default">
+          <div class="container">
+        <div  class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-ph-card-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-card_450_200">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/card_450_200/public/2019-05/Homepage-RESOURCES.jpg?itok=6I-9-IBy" width="500" height="225" alt="Homepage-RESOURCES" loading="lazy" typeof="foaf:Image" class="image-style-card-450-200" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+      
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Ressources</div>
+            </div>
+</div>
+
+<div class="clearfix text-formatted field field--name-field-ph-card-summary field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>Tous les services de soutien pour la communauté internationale</p>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-links field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/ressources" gi-link-theme="arrow" target="">En savoir plus</a></div>
+            </div>
+</div>
+
+  </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+              <div class="col-lg-4 col-sm-6">
+            <div class="dark paragraph paragraph--type--ino-pt-card paragraph--view-mode--default">
+          <div class="container">
+        <div  class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-ph-card-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-card_450_200">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/card_450_200/public/2019-05/Homepage-NEWS.jpg?itok=hbci96w-" width="500" height="225" alt="Homepage-NEWS" loading="lazy" typeof="foaf:Image" class="image-style-card-450-200" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+      
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Actualités</div>
+            </div>
+</div>
+
+<div class="clearfix text-formatted field field--name-field-ph-card-summary field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>Parcourez l'actualité de la Genève internationale</p>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-links field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/actualit" gi-link-theme="arrow" target="">En savoir plus</a></div>
+            </div>
+</div>
+
+  </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+            </div>
+    </div>
+  </div>
+
+</div>
+                    <div class="field__item">  <div class="paragraph paragraph--type--ino-pt-block paragraph--view-mode--default">
+          
+<div class="field field--name-field-ph-block-reference field--type-block-field field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">
+<div id="block-latestphotooftheweek" class="block block-gi-photo-of-the-week block-latest-photo-of-the-week">
+  <div class="block-wrapper">
+    
+    
+          
+<div class="potw">
+  <div class="potw-image">
+    
+
+<div role="article" about="/fr/l-oeil-de-la-geneve-internationale/12-september-2022" class="node node--type-photo-of-the-week node--promoted node--view-mode-media-only">
+    
+<div class="field field--name-field-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><div class="wrapper-photoswipe">
+    <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_1100/public/2022-09/NN11607213.jpg?itok=H0hndIHJ" width="1100" height="825" alt="This image was taken in a coffee plantation cooperative on the border of the Virunga National Park in DRC in 2019 by Carl De Keyzer" loading="lazy" typeof="foaf:Image" class="image-style-scale-1100" />
+</div>
+
+
+  <a href="https://geneve-int.ch/sites/default/files/styles/scale_2000/public/2022-09/NN11607213.jpg?itok=mylkK1UK" class="photoswipe" data-size="2000x1500" data-overlay-title="This image was taken in a coffee plantation cooperative on the border of the Virunga National Park in DRC in 2019 by Carl De Keyzer"><button type="button" class="zoom">Zoom</button></a>
+</div>
+</div>
+            </div>
+</div>
+
+</div>
+
+    <div class="copyright"> Carl De Keyser / Magnum Photos</div>
+  </div>
+  <div class="potw-textbox">
+    <h2 class="potw-title">L'OEIL DE LA GENÈVE INTERNATIONALE</h2>
+    <div class="potw-body"><p>Chaque semaine, découvrez un thème d’actualité de la Genève internationale mis en relation avec une image d’un photographe de renom.</p>
+</div>
+    <div class="potw-link"><a href="/fr/l-oeil-de-la-geneve-internationale/12-september-2022" hreflang="fr">En savoir plus</a></div>
+  </div>
+  <div class="potw-wrapp_link">
+    <a href="/fr/l-oeil-de-la-geneve-internationale/12-september-2022" hreflang="fr">En savoir plus</a>
+  </div>
+</div>
+
+      </div>
+</div>
+</div>
+            </div>
+</div>
+
+      </div>
+</div>
+                    <div class="field__item">  <div class="paragraph paragraph--type--ino-pt-list paragraph--view-mode--default">
+          <div class="container">
+        
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Interviews</div>
+            </div>
+</div>
+<div class="views-element-container"><div class="view view-ino-pt-list-nodes view-id-ino_pt_list_nodes view-display-id-ino_pt_list_threecol js-view-dom-id-6fed5006bb8d7d0f660fedfb06d6d8ea8a6efd6334dde4cd201f9c7e0c3d634d">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list item-list--blazy item-list--blazy-column"><ul class="blazy blazy--view blazy--view--ino-pt-list-nodes blazy--view--ino-pt-list-nodes--ino-pt-list-threecol blazy--view--ino-pt-list-nodes-embed-ino-pt-list-threecol blazy--grid block-column block-count-3 medium-block-column-2 large-block-column-3" data-blazy="" id="blazy-views-ino-pt-list-nodes-embed-ino-pt-list-threecol-1"><li class="grid"><div class="grid__content">
+<div class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-main-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-mini_450">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_450x450/public/2022-09/Jean_Yves_Art_Microsoft_Largeur.png?itok=NHerg5KN" width="450" height="300" alt="Jean-Yves ART" loading="lazy" typeof="foaf:Image" class="image-style-scale-450x450" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+    
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">L&#039;interview | Jean-Yves Art</div>
+            </div>
+</div>
+
+    
+    <a class="btn-external-underline" href="/fr/linterview-jean-yves-art">En savoir plus</a>
+  </div>
+</div>
+</div>
+</li><li class="grid"><div class="grid__content">
+<div class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-main-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-mini_450">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_450x450/public/2022-09/Samuel_Emonet_JRRlargeur%20%281%29.png?itok=BNd9x26M" width="450" height="300" alt="Samuel_Emonet" loading="lazy" typeof="foaf:Image" class="image-style-scale-450x450" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+    
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">L&#039;interview | Samuel Emonet</div>
+            </div>
+</div>
+
+    
+    <a class="btn-external-underline" href="/fr/linterview-samuel-emonet">En savoir plus</a>
+  </div>
+</div>
+</div>
+</li><li class="grid"><div class="grid__content">
+<div class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-main-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-mini_450">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_450x450/public/2022-06/Mary_v_Harvey_Oly.png?itok=jZqZV1Du" width="450" height="300" alt="Mary Harvey" loading="lazy" typeof="foaf:Image" class="image-style-scale-450x450" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+    
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">L&#039;interview | Mary V. Harvey OLY</div>
+            </div>
+</div>
+
+    
+    <a class="btn-external-underline" href="/fr/linterview-mary-v-harvey-oly">En savoir plus</a>
+  </div>
+</div>
+</div>
+</li></ul></div>
+    </div>
+  
+          </div>
+</div>
+
+<div class="field field--name-field-ph-list-link field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/interviews" gi-link-theme="arrow" target="">Toutes les interviews</a></div>
+            </div>
+</div>
+
+      </div>
+      </div>
+</div>
+                    <div class="field__item">  <div class="paragraph paragraph--type--ino-pt-wysiwyg paragraph--view-mode--default">
+          <div class="container">
+        
+<div class="clearfix text-formatted field field--name-field-ph-wysiwyg-text field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p class="text-align-center"><font size="4">Recevez tous les lundis la liste des prochains événements de la Genève internationale dans votre boîte mail </font></p>
+
+<p class="text-align-center"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="88f26eb6-74b8-48da-be47-bf87651e8c6d" href="/fr/calendar-subscribe" title="Restez informé des événements à venir de la Genève internationale"><img alt="Subscribe" data-entity-type="" data-entity-uuid="" src="/sites/default/files/2021-09/Bouton-Subscribe2.png" /></a></p>
+</div>
+            </div>
+</div>
+
+      </div>
+      </div>
+</div>
+                    <div class="field__item">  <div class="dark paragraph paragraph--type--ino-pt-list paragraph--view-mode--default">
+          <div class="container">
+        
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Movers and Shakers</div>
+            </div>
+</div>
+<div class="views-element-container"><div class="view view-ino-pt-list-nodes view-id-ino_pt_list_nodes view-display-id-ino_pt_list_threecol js-view-dom-id-c9dc99ba0b1d455852e2ea81fd015e02b1cf9fbe930dc2c1e3bda2bcc59b149f">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list item-list--blazy item-list--blazy-column"><ul class="blazy blazy--view blazy--view--ino-pt-list-nodes blazy--view--ino-pt-list-nodes--ino-pt-list-threecol blazy--view--ino-pt-list-nodes-embed-ino-pt-list-threecol blazy--grid block-column block-count-3 medium-block-column-2 large-block-column-3" data-blazy="" id="blazy-views-ino-pt-list-nodes-embed-ino-pt-list-threecol-2"><li class="grid"><div class="grid__content">
+
+<article role="article" lang="en" about="/node/49255" class="node node--type-news node--promoted node--view-mode-card">
+	
+	
+	<div class="news-card">
+		<div>
+												
+<div class="field field--name-field-illustration field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/card_450_200/public/2022-09/Volker_Turk.png?itok=C5LTav59" width="500" height="225" alt="Volker Türk " loading="lazy" typeof="foaf:Image" class="image-style-card-450-200" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+							
+
+			
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Volker Türk appointed new UN High Commissioner for Human Rights </div>
+            </div>
+</div>
+
+			
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>UN - 8 September 2022</p>
+</div>
+            </div>
+</div>
+
+			
+			<a class="btn-external-underline" href="https://news.un.org/en/story/2022/09/1126291" target=&quot;_blank&quot;>En savoir plus</a>
+		</div>
+	</div>
+</article>
+</div>
+</li><li class="grid"><div class="grid__content">
+
+<article role="article" lang="en" about="/node/49197" class="node node--type-news node--promoted node--view-mode-card">
+	
+	
+	<div class="news-card">
+		<div>
+												
+<div class="field field--name-field-illustration field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/card_450_200/public/2022-09/DNDI-Pizarro.png?itok=SdQgXsNH" width="500" height="225" alt="Dr Luis Pizarro" loading="lazy" typeof="foaf:Image" class="image-style-card-450-200" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+							
+
+			
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Dr Luis Pizarro becomes new Executive Director of the Drugs for Neglected Diseases initiative</div>
+            </div>
+</div>
+
+			
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>DNDi - 5 September 2022</p>
+</div>
+            </div>
+</div>
+
+			
+			<a class="btn-external-underline" href="https://dndi.org/press-releases/2022/dr-luis-pizarro-becomes-new-executive-director-of-dndi" target=&quot;_blank&quot;>En savoir plus</a>
+		</div>
+	</div>
+</article>
+</div>
+</li><li class="grid"><div class="grid__content">
+
+<article role="article" lang="en" about="/node/49146" class="node node--type-news node--promoted node--view-mode-card">
+	
+	
+	<div class="news-card">
+		<div>
+												
+<div class="field field--name-field-illustration field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/card_450_200/public/2022-09/FIFDH3.png?itok=eXmBH7wF" width="500" height="225" alt="Five outstanding women join the FIFDH Foundation Board" loading="lazy" typeof="foaf:Image" class="image-style-card-450-200" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+							
+
+			
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Five outstanding women join the FIFDH Foundation Board</div>
+            </div>
+</div>
+
+			
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>FIFDH - 29 August 2022</p>
+</div>
+            </div>
+</div>
+
+			
+			<a class="btn-external-underline" href="https://fifdh.org/en/the-festival/news/article/five-outstanding-women-join-the-fifdh-foundation-board" target=&quot;_blank&quot;>En savoir plus</a>
+		</div>
+	</div>
+</article>
+</div>
+</li></ul></div>
+    </div>
+  
+          </div>
+</div>
+
+<div class="field field--name-field-ph-list-link field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/movers-and-shakers" gi-link-theme="arrow" target="">Toutes les nouvelles</a></div>
+            </div>
+</div>
+
+      </div>
+      </div>
+</div>
+                    <div class="field__item">
+
+
+  <div class="paragraph grid">
+    <div class="container">
+      <div class="row">
+              <div class="col-lg-6">
+            <div class="paragraph paragraph--type--ino-pt-wysiwyg paragraph--view-mode--default">
+          <div class="container">
+        
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Rencontres à Genève</div>
+            </div>
+</div>
+
+<div class="clearfix text-formatted field field--name-field-ph-wysiwyg-text field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p><strong>Ce sont des monarques, des présidents, des ministres, des diplomates et des délégués qui viennent à Genève pour défendre leurs positions, changer le cours de l'histoire ou construire un avenir meilleur. </strong></p>
+
+<p><strong>Découvrez quelques-unes des personnalités qui ont mis Genève sous le feu des projecteurs depuis 1926.</strong></p>
+
+<p> </p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="46791c54-09cc-48a0-8ce3-b50a745be5a5" gi-link-theme="arrow" href="/fr/rencontres-geneve" title="Rencontres à Genève"><strong>Voir toutes les photos</strong></a></p>
+
+<p> </p>
+</div>
+            </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+              <div class="col-lg-6">
+            <div class="paragraph paragraph--type--ino-pt-gallery paragraph--view-mode--default">
+          <div class="container">
+        <div class="views-element-container"><div class="view view-ino-pt-media-collection view-id-ino_pt_media_collection view-display-id-ino_pt_gallery_carousel js-view-dom-id-45a3ff9210c0ae4cf44e06027383fc56b386c1aefe3966cecaf8884deac70f15">
+  
+    
+      
+      <div class="view-content">
+        <div class="slick blazy slick--view slick--view--ino-pt-media-collection slick--view--ino-pt-media-collection--ino-pt-gallery-carousel slick--view--ino-pt-media-collection-embed-ino-pt-gallery-carousel slick--skin--fullwidth slick--optionset--media-collection" data-blazy="" id="slick-views-ino-pt-media-collection-embed-ino-pt-gallery-carousel-3">
+      <div id="slick-views-ino-pt-media-collection-embed-ino-pt-gallery-carousel-3-slider" data-slick="{&quot;mobileFirst&quot;:true,&quot;accessibility&quot;:true,&quot;adaptiveHeight&quot;:true,&quot;arrows&quot;:true,&quot;draggable&quot;:true,&quot;focusOnSelect&quot;:true,&quot;initialSlide&quot;:0,&quot;lazyLoad&quot;:&quot;blazy&quot;,&quot;rows&quot;:1,&quot;slidesPerRow&quot;:1,&quot;slide&quot;:&quot;.slick__slide&quot;,&quot;slidesToShow&quot;:1,&quot;slidesToScroll&quot;:1,&quot;speed&quot;:500,&quot;swipe&quot;:true,&quot;touchMove&quot;:true,&quot;useCSS&quot;:true,&quot;cssEase&quot;:&quot;ease&quot;,&quot;useTransform&quot;:true,&quot;easing&quot;:&quot;linear&quot;,&quot;waitForAnimate&quot;:true}" class="slick__slider">
+  
+        <div class="slick__slide slide slide--0">
+    <figure class="media media--type-image media--view-mode-zoom_1100">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><div class="wrapper-photoswipe">
+    <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_1100/public/2021-06/2019-VIP_Geneva3.jpg?itok=jOxojZO_" width="1100" height="733" alt="H.E. Ms. Angela MERKEL, Chancellor of Germany with H.E. Ms. Ana BRNABIC, Prime Minister of Serbia during the 108th (Centenary) Session of the International Labour Conference on 11 June 2019" loading="lazy" typeof="foaf:Image" class="image-style-scale-1100" />
+</div>
+
+
+  <a href="https://geneve-int.ch/sites/default/files/styles/scale_2000/public/2021-06/2019-VIP_Geneva3.jpg?itok=qkSNfjW8" class="photoswipe" data-size="2000x1333"><button type="button" class="zoom">Zoom</button></a>
+</div>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-copyright field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Photo Crozet / Pouteau / ILO</div>
+            </div>
+</div>
+
+    </figure>
+
+  </div>
+  <div class="slick__slide slide slide--1">
+    <figure class="media media--type-image media--view-mode-zoom_1100">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><div class="wrapper-photoswipe">
+    <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_1100/public/2021-06/1990-VIP-Geneva.jpg?itok=EoKeusiw" width="1000" height="678" alt="Speech by Nelson Mandela, Deputy President of the African National Congress, on the occasion of his visit to the 77th International Labour Conference, 8 June 1990" loading="lazy" typeof="foaf:Image" class="image-style-scale-1100" />
+</div>
+
+
+  <a href="https://geneve-int.ch/sites/default/files/styles/scale_2000/public/2021-06/1990-VIP-Geneva.jpg?itok=Ed87CEoi" class="photoswipe" data-size="1000x678"><button type="button" class="zoom">Zoom</button></a>
+</div>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-copyright field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Photo ILO</div>
+            </div>
+</div>
+
+    </figure>
+
+  </div>
+  <div class="slick__slide slide slide--2">
+    <figure class="media media--type-image media--view-mode-zoom_1100">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><div class="wrapper-photoswipe">
+    <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_1100/public/2021-06/2004-VIP_Geneva.JPG?itok=7JLKASZT" width="1100" height="731" alt="His Royal Highness the Prince of Wales with ICRC President Jakob Kallenberger on 26 March 2004" loading="lazy" typeof="foaf:Image" class="image-style-scale-1100" />
+</div>
+
+
+  <a href="https://geneve-int.ch/sites/default/files/styles/scale_2000/public/2021-06/2004-VIP_Geneva.JPG?itok=V-OVHJSf" class="photoswipe" data-size="2000x1330"><button type="button" class="zoom">Zoom</button></a>
+</div>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-copyright field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Photo Christopher Black / Fédération / CICR</div>
+            </div>
+</div>
+
+    </figure>
+
+  </div>
+  <div class="slick__slide slide slide--3">
+    <figure class="media media--type-image media--view-mode-zoom_1100">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><div class="wrapper-photoswipe">
+    <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_1100/public/2021-06/1936-VIP_Geneva.jpg?itok=WvBV3ug-" width="1024" height="682" alt="His Imperial Majesty, the Emperor of Ethiopia, Haile Selassie, addresses at a special session of the League of Nations in June 1936" loading="lazy" typeof="foaf:Image" class="image-style-scale-1100" />
+</div>
+
+
+  <a href="https://geneve-int.ch/sites/default/files/styles/scale_2000/public/2021-06/1936-VIP_Geneva.jpg?itok=FqH4drpc" class="photoswipe" data-size="1024x682"><button type="button" class="zoom">Zoom</button></a>
+</div>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-copyright field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Photo : Robert Capa / Magnum Photos</div>
+            </div>
+</div>
+
+    </figure>
+
+  </div>
+
+  
+      </div>
+          <nav role="navigation" class="slick__arrow">
+        <button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0">Previous</button>
+                <button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0">Next</button>
+      </nav>
+      </div>
+
+
+    </div>
+  
+          </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+            </div>
+    </div>
+  </div>
+</div>
+                    <div class="field__item">  <div class="paragraph paragraph--type--ino-pt-list paragraph--view-mode--default">
+          <div class="container">
+        
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Focus</div>
+            </div>
+</div>
+<div class="views-element-container"><div class="view view-ino-pt-list-nodes view-id-ino_pt_list_nodes view-display-id-ino_pt_list_threecol js-view-dom-id-5d718c71bd185cbe16bc5ba51fedcc95dc460fc896dcf09b69c4b32e26dfff88">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list item-list--blazy item-list--blazy-column"><ul class="blazy blazy--view blazy--view--ino-pt-list-nodes blazy--view--ino-pt-list-nodes--ino-pt-list-threecol blazy--view--ino-pt-list-nodes-embed-ino-pt-list-threecol blazy--grid block-column block-count-3 medium-block-column-2 large-block-column-3" data-blazy="" id="blazy-views-ino-pt-list-nodes-embed-ino-pt-list-threecol-4"><li class="grid"><div class="grid__content">
+<div class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-main-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-mini_450">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_450x450/public/2022-09/Untitled%20design%20%286%29.png?itok=N1uDvL4F" width="450" height="450" alt="Quartier des Nations, a new relationship with the city" loading="lazy" typeof="foaf:Image" class="image-style-scale-450x450" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+    
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Quartier des Nations, une nouvelle relation avec la Ville | 13 Sept. au 23 Oct. 2022</div>
+            </div>
+</div>
+
+    
+    <a class="btn-external-underline" href="/fr/quartier-des-nations-une-nouvelle-relation-avec-la-ville-13-sept-au-23-oct-2022">En savoir plus</a>
+  </div>
+</div>
+</div>
+</li><li class="grid"><div class="grid__content">
+<div class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-main-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-mini_450">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_450x450/public/2022-05/Untitled%20design%20%285%29.png?itok=wCn2JTcL" width="450" height="319" alt="Bulletin_Intergroupe_Parlementaire_juin_2022" loading="lazy" typeof="foaf:Image" class="image-style-scale-450x450" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+    
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Newsletter Parlementaire - La Cybersécurité</div>
+            </div>
+</div>
+
+    
+    <a class="btn-external-underline" href="/fr/newsletter-parlementaire-la-cybersecurite">En savoir plus</a>
+  </div>
+</div>
+</div>
+</li><li class="grid"><div class="grid__content">
+<div class="card">
+  <div class="card-image">
+    
+<div class="field field--name-field-main-image field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-mini_450">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_450x450/public/2022-03/V-P-NE-E-00245.JPG?itok=2nz8ZlJz" width="450" height="300" alt="ICRC President Peter Maurer visits a young patient in Diffa hospital in Nigeria in 2016" loading="lazy" typeof="foaf:Image" class="image-style-scale-450x450" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+  </div>
+  <div class="card-content">
+    
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Peter Maurer, Président du CICR, lauréat du Prix de la Fondation pour Genève, 2022  | 21 mars 2022 </div>
+            </div>
+</div>
+
+    
+    <a class="btn-external-underline" href="/fr/peter-maurer-president-du-cicr-laureat-du-prix-de-la-fondation-pour-geneve-2022-21-mars-2022">En savoir plus</a>
+  </div>
+</div>
+</div>
+</li></ul></div>
+    </div>
+  
+          </div>
+</div>
+
+<div class="field field--name-field-ph-list-link field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/focus" gi-link-theme="arrow" target="">Tous les focus</a></div>
+            </div>
+</div>
+
+      </div>
+      </div>
+</div>
+                    <div class="field__item">  <div class="paragraph paragraph--type--banner paragraph--view-mode--default">
+          <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-6">
+            <div class="wrapper">
+              <div class="inner">
+                
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Des chiffres clés pour des organisations clés</div>
+            </div>
+</div>
+
+                
+<div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>Le site Genève internationale a demandé à des organisations internationales de présenter leur travail en chiffres.</p>
+</div>
+            </div>
+</div>
+
+                
+<div class="field field--name-field-link field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/chiffres-cles" gi-link-theme="arrow" target="">Découvrez les chiffres clés</a></div>
+            </div>
+</div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-6">
+            
+<div class="field field--name-field-media field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-default">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_2000/public/2021-05/Banner-key-figures-home_3_0.jpg?itok=5vfxlJpQ" width="933" height="595" alt="Banner_key_figures" loading="lazy" typeof="foaf:Image" class="image-style-scale-2000" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+      </div>
+</div>
+                    <div class="field__item">
+
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Faits et chiffres</div>
+            </div>
+</div>
+
+  <div class="paragraph grid">
+    <div class="container">
+      <div class="row">
+              <div class="col-lg-4 col-sm-6">
+            <div class="paragraph paragraph--type--key-metric paragraph--view-mode--default">
+          <div class="container">
+        
+<div class="field field--name-field-media field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-default">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/2019-04/State_0.svg" alt="States represented by a Permanent Mission" loading="lazy" typeof="foaf:Image" />
+</div>
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-value field--type-decimal field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">178</div>
+            </div>
+</div>
+
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Etats représentés par une mission permanente</div>
+            </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+              <div class="col-lg-4 col-sm-6">
+            <div class="paragraph paragraph--type--key-metric paragraph--view-mode--default">
+          <div class="container">
+        
+<div class="field field--name-field-media field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-default">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/2019-04/IOs.svg" alt="International organizations" loading="lazy" typeof="foaf:Image" />
+</div>
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-value field--type-decimal field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">39</div>
+            </div>
+</div>
+
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Organisations internationales</div>
+            </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+              <div class="col-lg-4 col-sm-6">
+            <div class="paragraph paragraph--type--key-metric paragraph--view-mode--default">
+          <div class="container">
+        
+<div class="field field--name-field-media field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-default">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/2019-04/NGO_1.svg" alt="Non-governmental Organizations" loading="lazy" typeof="foaf:Image" />
+</div>
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+<div class="field field--name-field-value field--type-decimal field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">432</div>
+            </div>
+</div>
+
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Organisations non gouvernementales</div>
+            </div>
+</div>
+
+      </div>
+      </div>
+
+        </div>
+            </div>
+    </div>
+  </div>
+
+</div>
+                    <div class="field__item">  <div class="paragraph paragraph--type--ino-pt-wysiwyg paragraph--view-mode--default">
+          <div class="container">
+        
+<div class="clearfix text-formatted field field--name-field-ph-wysiwyg-text field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p class="text-align-center"><a gi-link-theme="arrow" href="/fr/node/4172">Tous les faits et chiffres</a></p>
+
+<p class="text-align-center"> </p>
+</div>
+            </div>
+</div>
+
+      </div>
+      </div>
+</div>
+                    <div class="field__item">  <div class="paragraph paragraph--type--banner paragraph--view-mode--default">
+          <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-6">
+            <div class="wrapper">
+              <div class="inner">
+                
+<div class="field field--name-field-title field--type-string field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">Les Objectifs de Développement Durable dans l&#039;art</div>
+            </div>
+</div>
+
+                
+<div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>Le site Genève internationale vous invite à poser un regard neuf sur les Objectifs de Développement Durable (ODD) en les mettant en résonance avec des œuvres d'art majeures.</p>
+</div>
+            </div>
+</div>
+
+                
+<div class="field field--name-field-link field--type-link field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><a href="/fr/les-objectifs-de-d-veloppement-durable-dans-lart" gi-link-theme="arrow" target="">Découvrez les ODD</a></div>
+            </div>
+</div>
+
+              </div>
+            </div>
+          </div>
+          <div class="col-12 col-lg-6">
+            
+<div class="field field--name-field-media field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><figure class="media media--type-image media--view-mode-default">
+    
+            
+<div class="field field--name-field-media-image field--type-image field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">  <div class="wrapper-image">
+  <img src="/sites/default/files/styles/scale_2000/public/2019-05/All-SDG_0.png?itok=kzMlrcba" width="525" height="250" alt="All-SDG" loading="lazy" typeof="foaf:Image" class="image-style-scale-2000" />
+</div>
+
+
+</div>
+            </div>
+</div>
+
+    </figure>
+</div>
+            </div>
+</div>
+
+          </div>
+        </div>
+      </div>
+      </div>
+</div>
+            </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+    
+</article>
+
+  </div>
+
+    </main>
+  
+  
+            <footer id="footer">
+        <div class="container">
+            <div class="region region-footer">
+    <div id="block-customfooter" class="block block-ino-footer block-footer-block">
+  <div class="block-wrapper">
+    
+        
+          <div class="row">
+    <div class="mobile-50 col-sm-6 col-lg-3">
+        
+<div class="clearfix text-formatted field field--name-field-about field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>Un site de la:</p>
+
+<p><a href="https://www.ge.ch/" target="_blank" title="République et canton de Genève"><img alt="canton_0.svg" data-entity-type="" data-entity-uuid="" src="/sites/default/files/2019-04/canton_0.svg" /></a><br />
+ </p>
+
+<p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="7caddb01-8abc-4a89-b178-817efd625d2e" gi-link-theme="arrow" href="/fr/propos" title="A Propos">À propos</a></p>
+</div>
+            </div>
+</div>
+
+    </div>
+    <div class="mobile-50 col-sm-6 col-lg-4">
+        
+<div class="field field--name-field-menu field--type-entity-reference field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item">
+              <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/fr/actualit" gi-link-theme="" target="" data-drupal-link-system-path="node/5178">Actualités</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/fr/movers-and-shakers" gi-link-theme="" target="" data-drupal-link-system-path="node/12746">Movers and Shakers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/interviews" gi-link-theme="" target="" data-drupal-link-system-path="node/36485">Interviews</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/l-oeil-de-la-geneve-internationale" gi-link-theme="" target="" data-drupal-link-system-path="node/10090">L&#039;oeil de la Genève internationale</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/focus" gi-link-theme="" target="" data-drupal-link-system-path="node/7269">Focus</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/platforms" gi-link-theme="" target="" data-drupal-link-system-path="node/27586">Plateformes</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/m-dias" gi-link-theme="" target="" data-drupal-link-system-path="node/3888">Médias</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/videos" gi-link-theme="" target="" data-drupal-link-system-path="node/7265">Vidéos</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/fr/calendar" gi-link-theme="" target="" data-drupal-link-system-path="node/3861">Calendrier</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/whoswho" gi-link-theme="" target="" data-drupal-link-system-path="node/3852">Who&#039;s who</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/fr/ressources" gi-link-theme="" target="" data-drupal-link-system-path="node/4021">Ressources</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/fr/services" gi-link-theme="" target="" data-drupal-link-system-path="node/3881">Services de soutien</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/jobs" gi-link-theme="" target="" data-drupal-link-system-path="node/12747">Emploi</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/formations" gi-link-theme="" target="" data-drupal-link-system-path="node/7264">Formations</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/infrastructures-conf-renci-res" gi-link-theme="" target="" data-drupal-link-system-path="node/5179">Infrastructures conférencières</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/documents" gi-link-theme="" target="" data-drupal-link-system-path="node/12745">Documents</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/projet-de-changement-de-perception" gi-link-theme="" target="" data-drupal-link-system-path="node/4127">Projet de changement de perception</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/whoswho?keywords=&amp;field_organization_types%5B15%5D=15" gi-link-theme="" target="" data-drupal-link-query="{&quot;field_organization_types&quot;:{&quot;15&quot;:&quot;15&quot;},&quot;keywords&quot;:&quot;&quot;}" data-drupal-link-system-path="node/3852">Autorités locales</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/fr/geneveinternationale" gi-link-theme="" target="" data-drupal-link-system-path="node/3849">La Genève internationale</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/fr/faits-et-chiffres" gi-link-theme="" target="" data-drupal-link-system-path="node/4172">Faits et chiffres</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/fr/expertise-et-impact" gi-link-theme="" target="" data-drupal-link-system-path="node/46745">Expertise et impact</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/fr/domaines-dexpertise-et-ressources-cles" gi-link-theme="" target="" data-drupal-link-system-path="node/27812">Les domaines d&#039;expertise</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/chiffres-cles" gi-link-theme="" target="" data-drupal-link-system-path="node/34892">Les organisations en chiffres</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/realisations" gi-link-theme="" target="" data-drupal-link-system-path="node/3851">Les résultats concrets</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/fr/histoire" gi-link-theme="" target="" data-drupal-link-system-path="node/7268">Histoire</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/fr/reperes-historiques" gi-link-theme="" target="" data-drupal-link-system-path="node/3865">Repères historiques</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/documents-dhistoire" gi-link-theme="" target="" data-drupal-link-system-path="node/46701">Documents d&#039;histoire</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/les-prix-nobel-et-gen-ve" gi-link-theme="" target="" data-drupal-link-system-path="node/3867">Prix Nobel</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/rencontres-geneve" gi-link-theme="" target="" data-drupal-link-system-path="node/36691">Rencontres à Genève</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/lhistoire-du-domaine-bati-des-institutions-internationales-geneve" gi-link-theme="" target="" data-drupal-link-system-path="node/4151">Histoire de l&#039;architecture</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/fr/batiments-architecture" gi-link-theme="" target="" data-drupal-link-system-path="node/7266">Bâtiments</a>
+              </li>
+                <li class="menu-item">
+        <a href="/fr/discover-international-genevas-museums-tours-exhibitions" gi-link-theme="" target="" data-drupal-link-system-path="node/7267">Visites</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+</div>
+            </div>
+</div>
+
+    </div>
+
+    <div class="col-sm-12 col-lg-5">
+        <br/>
+        
+<div class="clearfix text-formatted field field--name-field-contact field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p style="line-height: 1;"><span style="font-family: Calibri, sans-serif; font-size: 30px;">RESTEZ INFORMÉ DE CE QUI SE PASSE DANS LA GENÈVE INTERNATIONALE</span></p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%;"><tbody><tr><td style="border-color: rgb(241, 241, 235);">
+			<p><span style="font-family: Calibri, sans-serif; font-size: 14px;">Upcoming events' newsletter</span></p>
+			</td>
+			<td style="border-color: rgb(241, 241, 235);"><a href="https://www.geneve-int.ch/calendar-subscribe"><img alt="Subscribe" data-entity-type="" data-entity-uuid="" src="/sites/default/files/2021-04/Footer-newsletter.png" /></a></td>
+		</tr><tr><td style="border-color: rgb(241, 241, 235);">
+			<p><span style="font-family: Calibri, sans-serif; font-size: 14px;">Twitter</span></p>
+			</td>
+			<td style="vertical-align: middle; border-color: rgb(241, 241, 235);"><a href="https://twitter.com/Geneve_int" target="_blank"><img alt="Twitter" data-entity-type="" data-entity-uuid="" src="/sites/default/files/2021-04/Footer-twitter2.png" /></a></td>
+		</tr></tbody></table></div>
+            </div>
+</div>
+
+    </div>
+</div>
+
+<div class="clearfix text-formatted field field--name-field-copyright field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><p>© République et canton de Genève 2022 | <a href="https://www.geneve-int.ch/fr/conditions-generales">Conditions générales</a></p>
+</div>
+            </div>
+</div>
+
+
+      </div>
+</div>
+<div id="block-css2" class="block block-block-content block-block-contenteb9e5a31-7200-4617-9057-d7b91e5ecf88">
+  <div class="block-wrapper">
+    
+        
+          
+<div class="clearfix text-formatted field field--name-field-css field--type-text-long field--label-hidden">
+        <div class="field__items">
+                    <div class="field__item"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.primary-menu .block-superfishmain .menu li a, .primary-menu .block-superfishmain .menu li span {
+    padding: 0 25px;
+}
+
+@media screen and (min-width: 992px) {
+#footer .field--name-field-contact{
+margin-top:-30px;
+}
+
+input[data-drupal-selector="edit-reset"] {
+    font-size: 21px;
+    text-transform: uppercase;
+}
+.view-id-who_s_who .view-filters,
+#block-views-block-calendar-block-1 .view-filters{
+margin-bottom:200px;
+}
+.node-event-form.node-form #edit-field-address-0-address-country-code{
+display:none;
+}
+.user-logged-in .node-event-form.node-form #edit-field-address-0-address-country-code{
+display:block;
+}
+
+/*--><!]]>*/
+</style></div>
+            </div>
+</div>
+
+      </div>
+</div>
+
+  </div>
+
+        </div>
+      </footer>
+      
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"fr\/","currentPath":"node\/5176","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gi_adapt":{"user":{"uid":0,"role":["anonymous"]},"node_typename":"page","node_typeLabel":"Homepage","role":{"1000":"non_admin","1001":"anonymous"},"base_path":"\/","new_event":{},"url":"\/fr"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cp\u003EEn naviguant sur ce site, vous acceptez l\u0027utilisation statistique de cookies destin\u00e9s \u00e0 son am\u00e9lioration continue.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EACCEPTER\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EACCEPTER\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":85,"popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.geneve-int.ch\/fr\/conditions-generales","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"fr","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"default","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"open_by_default":true},"blazy":{"loader":true,"unblazy":null,"compat":true},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"accessibility":false,"adaptiveHeight":false,"autoplay":false,"pauseOnHover":false,"pauseOnDotsHover":false,"pauseOnFocus":true,"autoplaySpeed":null,"arrows":false,"downArrow":false,"downArrowTarget":"","downArrowOffset":null,"centerMode":false,"centerPadding":"","dots":false,"dotsClass":"","draggable":false,"fade":false,"focusOnSelect":false,"infinite":false,"initialSlide":null,"lazyLoad":"","mouseWheel":false,"randomize":false,"rtl":false,"rows":null,"slidesPerRow":null,"slide":"","slidesToShow":null,"slidesToScroll":null,"speed":null,"swipe":false,"swipeToSlide":false,"edgeFriction":null,"touchMove":false,"touchThreshold":null,"useCSS":false,"cssEase":"","cssEaseBezier":"","cssEaseOverride":"","useTransform":false,"easing":"","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":false},"photoswipe":{"options":{"showAnimationDuration":333,"hideAnimationDuration":333,"showHideOpacity":false,"bgOpacity":1,"spacing":0.12,"allowPanToNext":true,"maxSpreadZoom":2,"loop":true,"pinchToClose":true,"closeOnScroll":true,"closeOnVerticalDrag":true,"mouseUsed":false,"escKey":true,"arrowKeys":true,"history":true,"errorMsg":"\u003Cdiv class=\u0022pswp__error-msg\u0022\u003E\u003Ca href=\u0022%url%\u0022 target=\u0022_blank\u0022\u003EThe image\u003C\/a\u003E could not be loaded.\u003C\/div\u003E","preload":[1,1],"mainClass":null,"focus":true,"modal":true},"container":"\u003Cdiv class=\u0022pswp\u0022 tabindex=\u0022-1\u0022 role=\u0022dialog\u0022 aria-hidden=\u0022true\u0022\u003E\n\n    \u003Cdiv class=\u0022pswp__bg\u0022\u003E\u003C\/div\u003E\n\n    \u003Cdiv class=\u0022pswp__scroll-wrap\u0022\u003E\n\n    \n    \u003Cdiv class=\u0022pswp__container\u0022\u003E\n      \u003Cdiv class=\u0022pswp__item\u0022\u003E\u003C\/div\u003E\n      \u003Cdiv class=\u0022pswp__item\u0022\u003E\u003C\/div\u003E\n      \u003Cdiv class=\u0022pswp__item\u0022\u003E\u003C\/div\u003E\n    \u003C\/div\u003E\n\n        \u003Cdiv class=\u0022pswp__ui pswp__ui--hidden\u0022\u003E\n\n      \u003Cdiv class=\u0022pswp__top-bar\u0022\u003E\n\n        \n        \u003Cdiv class=\u0022pswp__counter\u0022\u003E\u003C\/div\u003E\n\n        \u003Cbutton class=\u0022pswp__button pswp__button--close\u0022 title=\u0022Close (Esc)\u0022\u003E\u003C\/button\u003E\n\n        \u003Cbutton class=\u0022pswp__button pswp__button--share\u0022 title=\u0022Share\u0022\u003E\u003C\/button\u003E\n\n        \u003Cbutton class=\u0022pswp__button pswp__button--fs\u0022 title=\u0022Toggle fullscreen\u0022\u003E\u003C\/button\u003E\n\n        \u003Cbutton class=\u0022pswp__button pswp__button--zoom\u0022 title=\u0022Zoom in\/out\u0022\u003E\u003C\/button\u003E\n\n        \n        \u003Cdiv class=\u0022pswp__preloader\u0022\u003E\n          \u003Cdiv class=\u0022pswp__preloader__icn\u0022\u003E\n            \u003Cdiv class=\u0022pswp__preloader__cut\u0022\u003E\n              \u003Cdiv class=\u0022pswp__preloader__donut\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E\n          \u003C\/div\u003E\n        \u003C\/div\u003E\n      \u003C\/div\u003E\n\n      \u003Cdiv class=\u0022pswp__share-modal pswp__share-modal--hidden pswp__single-tap\u0022\u003E\n        \u003Cdiv class=\u0022pswp__share-tooltip\u0022\u003E\u003C\/div\u003E\n      \u003C\/div\u003E\n\n      \u003Cbutton class=\u0022pswp__button pswp__button--arrow--left\u0022 title=\u0022Previous (arrow left)\u0022\u003E\n      \u003C\/button\u003E\n\n      \u003Cbutton class=\u0022pswp__button pswp__button--arrow--right\u0022 title=\u0022Next (arrow right)\u0022\u003E\n      \u003C\/button\u003E\n\n      \u003Cdiv class=\u0022pswp__caption\u0022\u003E\n        \u003Cdiv class=\u0022pswp__caption__center\u0022\u003E\u003C\/div\u003E\n      \u003C\/div\u003E\n\n    \u003C\/div\u003E\n\n  \u003C\/div\u003E\n\n\u003C\/div\u003E\n"},"superfish":{"superfish-main":{"id":"superfish-main","sf":{"pathClass":"active-trail","pathLevels":"0","animation":{"opacity":"show"},"speed":"fast","autoArrows":false,"dropShadows":false},"plugins":{"smallscreen":{"mode":"window_width","title":"Navigation principale"},"supposition":true,"supersubs":true}}},"ajaxTrustedUrl":{"\/search":true},"user":{"uid":0,"permissionsHash":"de9bcbbdfe07b9fd66f1316c3b44039b092e810eca0dd38320ec61e1ad34fe4c"}}</script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.polyfill.min.js?rgfyym"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.6.0"></script>
+<script src="/core/assets/vendor/css-escape/css.escape.js?v=1.5.1"></script>
+<script src="/core/misc/polyfills/element.matches.js?v=9.4.2"></script>
+<script src="/core/misc/polyfills/object.assign.js?v=9.4.2"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.classlist.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.promise.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.raf.min.js?rgfyym"></script>
+<script src="/modules/custom/gi_adapt/js/gi_adapt_preload.js?v=1.x"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=9.4.2"></script>
+<script src="/sites/default/files/languages/fr_JWZtlURF-oPyqWn17IytOHupN6st8ZLT2LqC0l48Bzo.js?rgfyym"></script>
+<script src="/core/misc/drupal.js?v=9.4.2"></script>
+<script src="/core/misc/drupal.init.js?v=9.4.2"></script>
+<script src="/core/misc/debounce.js?v=9.4.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.13.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=1.13.1"></script>
+<script src="/modules/contrib/blazy/js/dblazy.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.dataset.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.viewport.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.dom.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.xlazy.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.observer.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/plugin/blazy.loading.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/polyfill/blazy.webp.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.base.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.min.js?rgfyym"></script>
+<script src="/libraries/slick/slick/slick.min.js?v=1.x"></script>
+<script src="/modules/contrib/blazy/js/base/io/bio.media.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/base/blazy.drupal.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/blazy.load.min.js?rgfyym"></script>
+<script src="/modules/contrib/blazy/js/blazy.compat.min.js?rgfyym"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=5.3.2"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=9.4.2"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=1.13.1"></script>
+<script src="/modules/custom/gi_adapt/js/imageLoaded.js?v=1.x"></script>
+<script src="/modules/custom/gi_adapt/js/gi_adapt.js?v=1.x"></script>
+<script src="/modules/custom/gi_adapt/js/gi_adapt_postload.js?v=1.x"></script>
+<script src="/modules/custom/gi_adapt/js/gi_adapt_admin.js?v=1.x"></script>
+<script src="/core/misc/jquery.once.bc.js?v=9.4.2"></script>
+<script src="/themes/d8mo_childtheme/dist/js/script.js?v=9.4.2"></script>
+<script src="/core/assets/vendor/js-cookie/js.cookie.min.js?v=3.0.1"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1.19" defer></script>
+<script src="/modules/contrib/slick/js/slick.load.min.js?v=9.4.2"></script>
+<script src="/libraries/photoswipe/dist/photoswipe.min.js?rgfyym"></script>
+<script src="/libraries/photoswipe/dist/photoswipe-ui-default.min.js?rgfyym"></script>
+<script src="/modules/contrib/photoswipe/js/photoswipe.jquery.js?rgfyym"></script>
+<script src="/themes/d8mo_childtheme/dist/js/photo_week.js?rgfyym"></script>
+<script src="/libraries/superfish/superfish.js?rgfyym"></script>
+<script src="/libraries/superfish/jquery.hoverIntent.minified.js?rgfyym"></script>
+<script src="/libraries/superfish/sfsmallscreen.js?rgfyym"></script>
+<script src="/libraries/superfish/supposition.js?rgfyym"></script>
+<script src="/libraries/superfish/supersubs.js?rgfyym"></script>
+<script src="/modules/contrib/superfish/js/superfish.js?v=2.0"></script>
+<script src="/themes/d8mo_childtheme/dist/js/home.js?rgfyym"></script>
+<script src="/themes/d8mo_childtheme/dist/js/photoswipe_slider.js?rgfyym"></script>
+
+  </body>
+</html>
