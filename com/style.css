@@ -26,6 +26,15 @@ body {
     margin: 20px 0;
 }
 
+.wrappert {
+    padding: 20px;
+    background: rgb(160, 153, 153);
+    box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+    width: 900px;
+    min-height: 400px;
+    margin: 20px 0;
+}
+
 .wrapper .row {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));

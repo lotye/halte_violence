@@ -8,6 +8,10 @@ header{
   display: flex;
   
 }
+.blanc{
+  margin-top: 10px;
+  color: #ebeef6;
+}
 .partenaires{
   display: flex;
   width: 100%;

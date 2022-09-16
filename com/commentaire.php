@@ -162,7 +162,7 @@
     </div>
   </div>
 
-    <p class="wrapper">
+    <p class="wrappert">
     Pourquoi la violence fondée sur le genre est-elle un problème ?
 La violence fondée sur le genre est une violation des droits humains <br>
 
@@ -174,7 +174,7 @@ La violence fondée sur genre est une forme de discrimination <br>
 
 La violence fondée sur le genre est profondément enracinée dans des stéréotypes et des préjugés dommageables à l’égard des femmes ou d’autres personnes qui ne s’intègrent pas dans des sociétés traditionnelles, binaires du point de vue genre ou hétéronormatives. C’est pourquoi cette violence peut avoir pour effet de mettre les femmes et d’autres personnes au ban de la société et de les faire se sentir inférieures ou impuissantes. Dans le cas d’hommes qui ne se conforment pas aux rôles de genre masculins dominants, la violence fondée sur le genre a une fonction de correction. Ainsi, la sévérité de la « punition » infligée à ces hommes qui ne répondent pas aux attentes traditionnelles (qu’ils soient gays, bisexuels ou hétérosexuels) est fonction du danger qu’est censée présenter leur différence pour les hypothèses de genre normalisées et dominantes. Leurs vies risqueraient de contredire l’idée qu’il existe des types de comportement et des rôles sociaux « naturels », tant pour les hommes que pour les femmes.
 La violence fondée sur le genre est un obstacle à l’égalité entre les femmes et les hommes <br>
-
+ <img src="../images/2014(1).jpg" alt="">
 
 L’égalité entre les femmes et les hommes est essentielle à la protection des droits humains, à la défense de la démocratie et à la préservation de l’État de droit. La violence fondée sur le genre contribue à cultiver une société hétéronormative et perpétue le pouvoir des hommes. L’égalité de genre, d’autre part, implique l’égalité des droits des personnes de tous les genres, ainsi qu’une visibilité et des chances égales pour l’autonomisation, la prise de responsabilités et la participation dans toutes les sphères de la vie publique et privée. Cette égalité implique également l’égalité des femmes et des hommes dans l’accès aux ressources et dans la distribution de ces ressources.
 La violence fondée sur le genre n’est pas suffisamment signalée et ses auteur.e.s jouissent souvent de l’impunité
@@ -186,6 +186,11 @@ Les enfants élevés dans des familles où une femme est maltraitée sont égale
 La violence fondée sur le genre a un coût économique très lourd
 
 La violence fondée sur le genre nécessite la mise à contribution de différents services – médicaux, psychologiques, policiers ou judiciaires – et entraîne la perte de ressources ou d’emploi pour les victimes. Elle met les individus en situation de sous-performance au travail et dans l’éducation, et a un effet négatif sur leur productivité. De nombreuses victimes de violence fondée sur le genre doivent quitter leur domicile et ont besoin d’un lieu où être accueillies, ce qui entraîne parfois leur itinérance. Des services d’hébergement doivent être mis à la disposition de ces personnes et, s’il existe des structures d’accueil pour les femmes maltraitées et leurs enfants dans de nombreux pays d’Europe (mais pas en nombre suffisant), le manque de foyers pour les personnes LGBT+ reste critique. 
+
+<br>
+<br>
+sept 2022 <br>
+Projet DCLIC
 </p>
 
 
