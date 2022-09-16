@@ -3,7 +3,7 @@
 $server = "localhost";
 $username = "root";
 $password = "";
-$database = "import";
+$database = "lotyeawesso_halteviolencegenre";
 
 $conn = mysqli_connect($server, $username, $password, $database);
 

@@ -3,7 +3,7 @@
       $servername = "localhost";
       $username = "root";
       $password = "";
-      $dbname = "import";
+      $dbname = "lotyeawesso_halteviolencegenre";
 
 
 try {

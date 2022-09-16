@@ -55,7 +55,7 @@ echo "Encrypted String: " . $encryption . "\n";
       $servername = "localhost";
       $username = "root";
       $password = "";
-      $dbname = "import";
+      $dbname = "lotyeawesso_halteviolencegenre";
 
 
 try {
