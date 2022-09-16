@@ -1,8 +1,8 @@
 <?php
       // CONNEXION A LA BD
-      $servername = "localhost";
-      $username = "root";
-      $password = "";
+      $servername = "mysql-lotyeawesso.alwaysdata.net";
+      $username = "281293";
+      $password = "9188888";
       $dbname = "lotyeawesso_halteviolencegenre";
 
 
