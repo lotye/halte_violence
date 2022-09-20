@@ -1,14 +1,17 @@
 <?php
-      // CONNEXION A LA BD
-       $servername = "mysql-lotyeawesso.alwaysdata.net";
-       $username = "281293";
-       $password = "9188888";
-       $dbname = "lotyeawesso_halteviolencegenre";
+      // // CONNEXION A LA BD
+        $servername = "mysql-lotyeawesso.alwaysdata.net";
+        $username = "281293";
+        $password = "91888882";
+        $dbname = "lotyeawesso_halteviolencegenre";
+        
+
+     
 
       //  $servername = "localhost";
-      // $username = "root";
-      // $password = "";
-      // $dbname = "import";
+      //  $username = "root";
+      //  $password = "";
+      //  $dbname = "import";
 
 
 try {
