@@ -23,7 +23,7 @@
           <label>Mot de passe</label>
         </div>
         <div class="pass">Mot de passe oublié?</div>
-        <input type="submit" value="Login">
+        <button>Envoye</button>
         <div class="signup_link">
           Not a member? <a href="#">Signup</a>
         </div>
