@@ -308,7 +308,7 @@ body {
               <div class="invalid-feedback">
               </div>
 
-          </div>
+          </div> <br>
           <div>
         <a class="btn btn-outline-success" href="#" role="button">Envoye</a>
         </div>
