@@ -171,6 +171,7 @@ body {
     left: 100%;
     background: #5bc995;
   }
+  
   .menu .smartphone-menu-trigger:before,
   .menu .smartphone-menu-trigger:after {
     content: '';
@@ -308,8 +309,7 @@ body {
               </div>
 
           </div>
-          
-        <button>Envoye</button>
+          <a class="btn btn-outline-success" href="#" role="button">Envoye</a>
   </div>
 
 
