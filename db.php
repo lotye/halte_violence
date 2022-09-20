@@ -48,14 +48,20 @@ echo "Encrypted String: " . $encryption . "\n";
 
 
   
+  
 
+      // CONNEXION A LA BD
+     // $servername = "localhost";
+      //$username = "root";
+      //$password = "";
+      //$dbname = "import";
     
 
       // CONNEXION A LA BD
-      $servername = "mysql-lotyeawesso.alwaysdata.net";
-      $username = "281293";
-      $password = "9188888";
-      $dbname = "lotyeawesso_halteviolencegenre";
+       $servername = "mysql-lotyeawesso.alwaysdata.net";
+        $username = "281293";
+       $password = "91888882";      
+       $dbname = "lotyeawesso_halteviolencegenre";
 
 
 try {

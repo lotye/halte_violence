@@ -11,11 +11,14 @@
 <?php
 
       // CONNEXION A LA BD
-      $servername = "localhost";
-      $username = "root";
-      $password = "";
-      $dbname = "import";
-
+      // $servername = "localhost";
+      // $username = "root";
+      // $password = "";
+      // $dbname = "import";
+      $servername = "mysql-lotyeawesso.alwaysdata.net";
+      $username = "281293";
+     $password = "91888882";      
+     $dbname = "lotyeawesso_halteviolencegenre";
 
 try {
   $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
